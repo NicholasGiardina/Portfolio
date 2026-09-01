@@ -1,0 +1,21 @@
+---
+title: "Evidence Traceability Circle Pack"
+page-layout: full
+toc: false
+---
+
+This interactive circle pack communicates relationships among evidence
+records, comparative fire classes, and canonical fire uses.
+
+Hover over the circles to inspect individual categories. The figure is
+best viewed on a desktop or laptop.
+
+[Open the figure in a separate browser tab](interactive/evidence-traceability-circlepack.html){target="_blank"}
+
+<iframe
+  class="interactive-frame circlepack-frame"
+  src="interactive/evidence-traceability-circlepack.html"
+  title="Interactive evidence traceability circle pack"
+  loading="lazy"
+  scrolling="no">
+</iframe>

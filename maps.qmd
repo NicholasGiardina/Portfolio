@@ -1,0 +1,38 @@
+---
+title: "Archaeological and Research Mapping"
+toc: true
+---
+
+## Regional Indigenous fire-use map
+
+### Purpose
+
+\[Explain what the map was designed to communicate.\]
+
+### Process
+
+- Compiled and checked spatial source information
+- Managed coordinate reference systems
+- Integrated boundaries, hydrology, elevation, and basemap information
+- Developed map symbology and labeling
+- Created a publication-ready QGIS layout
+
+## Meander River close-up map
+
+\[Add the project description and map here.\]
+
+## Skills demonstrated
+
+- QGIS
+
+- Coordinate reference systems
+
+- Vector and raster data
+
+- Cartographic design
+
+- Label placement
+
+- 
+
+  ## Print-layout production

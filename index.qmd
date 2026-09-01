@@ -1,0 +1,44 @@
+---
+title: "Nicholas Giardina"
+subtitle: "Archaeology, spatial analysis, data production, and visual communication"
+toc: false
+---
+
+I am an archaeology graduate and research assistant working at the
+intersection of archaeological research, structured data, spatial
+analysis, and visual communication.
+
+This portfolio presents selected work in ethnographic data production,
+interactive visualization in R, archaeological mapping in QGIS, and
+archaeological illustration in Adobe Illustrator.
+
+## Selected work
+
+### Ethnographic Fire-Use Dataset
+
+A structured and model-oriented dataset developed from ethnographic
+literature concerning Indigenous fire practices in northern Alberta.
+
+[View the dataset project](dataset.qmd)
+
+### Interactive Data Visualizations
+
+Interactive figures developed in R to communicate the dataset's
+classification, evidence relationships, spatial forms, and timing
+patterns.
+
+[View the interactive visualizations](visualizations.qmd)
+
+### Archaeological Mapping
+
+Regional and close-up maps created in QGIS to communicate source
+locations, cultural landscapes, and archaeological features.
+
+[View the mapping work](maps.qmd)
+
+### Archaeological Illustration
+
+Vector illustrations of archaeological sites and structural features
+in Greenland, created from field documentation in Adobe Illustrator.
+
+[View the illustrations](illustrations.qmd)

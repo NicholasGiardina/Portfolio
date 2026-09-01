@@ -1,0 +1,21 @@
+---
+title: "Comparative Class and Ontology Heatmap"
+page-layout: full
+toc: false
+---
+
+This interactive heatmap compares the dataset's comparative fire
+classes across selected ontology and model-facing variables.
+
+Hover over individual cells to inspect the corresponding class,
+variable, and recorded relationship.
+
+[Open the figure in a separate browser tab](interactive/comparative-ontology-heatmap.html){target="_blank"}
+
+<iframe
+  class="interactive-frame ontology-frame"
+  src="interactive/comparative-ontology-heatmap.html"
+  title="Interactive comparative class and ontology heatmap"
+  loading="lazy"
+  scrolling="no">
+</iframe>

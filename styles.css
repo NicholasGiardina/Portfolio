@@ -1,0 +1,91 @@
+:root {
+  --portfolio-dark: #27352f;
+  --portfolio-green: #536b5e;
+  --portfolio-ember: #94513e;
+  --portfolio-paper: #fbfaf7;
+  --portfolio-line: #d9d6ce;
+  --portfolio-text: #252a28;
+}
+
+body {
+  background-color: var(--portfolio-paper);
+  color: var(--portfolio-text);
+  font-size: 1.04rem;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--portfolio-dark);
+  font-weight: 650;
+}
+
+a {
+  color: var(--portfolio-ember);
+}
+
+a:hover {
+  color: #6f382b;
+}
+
+.navbar {
+  background-color: var(--portfolio-dark) !important;
+}
+
+.project-preview {
+  display: block;
+  width: 100%;
+  max-height: 650px;
+  object-fit: contain;
+  background: white;
+  border: 1px solid var(--portfolio-line);
+  border-radius: 4px;
+  padding: 0.4rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.interactive-frame {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  background: white;
+  border: 1px solid var(--portfolio-line);
+  border-radius: 4px;
+  margin-top: 1rem;
+}
+
+.interactive-frame.circlepack-frame {
+  height: 1300px;
+  min-height: 1300px;
+}
+
+.btn-primary {
+  background-color: var(--portfolio-ember);
+  border-color: var(--portfolio-ember);
+}
+
+.btn-primary:hover {
+  background-color: #6f382b;
+  border-color: #6f382b;
+}
+.interactive-frame.ontology-frame {
+  height: 850px;
+  min-height: 850px;
+}
+
+.interactive-frame.treemap-frame {
+  width: calc(100% + 24px);
+  max-width: calc(100% + 24px);
+  height: 950px;
+  min-height: 950px;
+  margin-left: -12px;
+}
+
+.interactive-frame.timing-frame {
+  height: 660px;
+  min-height: 660px;
+}
+}

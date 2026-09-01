@@ -1,0 +1,14 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+/.quarto/
+/_site/
+
+*.xlsx
+*.xls
+*.csv
+*.gpkg
+*.qgz
+*.7z
+*.ai

@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "viz-timing-spatial.html",
+    "href": "viz-timing-spatial.html",
+    "title": "Timing and Spatial-Form Heatmap",
+    "section": "",
+    "text": "This interactive heatmap explores relationships between documented timing regimes and the spatial forms of fire practices.\nThe timing categories distinguish season-specific, multi-season, and other or unspecified timing patterns.\nOpen the figure in a separate browser tab"
+  },
+  {
+    "objectID": "viz-ontology-heatmap.html",
+    "href": "viz-ontology-heatmap.html",
+    "title": "Comparative Class and Ontology Heatmap",
+    "section": "",
+    "text": "This interactive heatmap compares the dataset’s comparative fire classes across selected ontology and model-facing variables.\nHover over individual cells to inspect the corresponding class, variable, and recorded relationship.\nOpen the figure in a separate browser tab"
+  },
+  {
+    "objectID": "visualizations.html",
+    "href": "visualizations.html",
+    "title": "Interactive Data Visualizations",
+    "section": "",
+    "text": "These interactive figures were developed in R to communicate the structure, evidence relationships, and model-facing characteristics of the ethnographic fire-use dataset."
+  },
+  {
+    "objectID": "visualizations.html#evidence-traceability-circle-pack",
+    "href": "visualizations.html#evidence-traceability-circle-pack",
+    "title": "Interactive Data Visualizations",
+    "section": "Evidence traceability circle pack",
+    "text": "Evidence traceability circle pack\nThis visualization communicates relationships among evidence records, comparative fire classes, and canonical fire uses.\nExplore the circle pack"
+  },
+  {
+    "objectID": "visualizations.html#comparative-class-and-ontology-heatmap",
+    "href": "visualizations.html#comparative-class-and-ontology-heatmap",
+    "title": "Interactive Data Visualizations",
+    "section": "Comparative class and ontology heatmap",
+    "text": "Comparative class and ontology heatmap\nThis heatmap compares comparative fire classes across selected ontology and model-facing variables.\nExplore the ontology heatmap"
+  },
+  {
+    "objectID": "visualizations.html#spatial-form-treemap",
+    "href": "visualizations.html#spatial-form-treemap",
+    "title": "Interactive Data Visualizations",
+    "section": "Spatial-form treemap",
+    "text": "Spatial-form treemap\nThis treemap communicates how spatial forms are represented across the structured fire-use categories.\nExplore the spatial-form treemap"
+  },
+  {
+    "objectID": "visualizations.html#timing-and-spatial-form-heatmap",
+    "href": "visualizations.html#timing-and-spatial-form-heatmap",
+    "title": "Interactive Data Visualizations",
+    "section": "Timing and spatial-form heatmap",
+    "text": "Timing and spatial-form heatmap\nThis heatmap explores relationships between documented timing regimes and spatial forms.\nExplore the timing heatmap"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicholas Giardina",
+    "section": "",
+    "text": "I am an archaeology graduate and research assistant working at the intersection of archaeological research, structured data, spatial analysis, and visual communication.\nThis portfolio presents selected work in ethnographic data production, interactive visualization in R, archaeological mapping in QGIS, and archaeological illustration in Adobe Illustrator."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Nicholas Giardina",
+    "section": "Selected work",
+    "text": "Selected work\n\nEthnographic Fire-Use Dataset\nA structured and model-oriented dataset developed from ethnographic literature concerning Indigenous fire practices in northern Alberta.\nView the dataset project\n\n\nInteractive Data Visualizations\nInteractive figures developed in R to communicate the dataset’s classification, evidence relationships, spatial forms, and timing patterns.\nView the interactive visualizations\n\n\nArchaeological Mapping\nRegional and close-up maps created in QGIS to communicate source locations, cultural landscapes, and archaeological features.\nView the mapping work\n\n\nArchaeological Illustration\nVector illustrations of archaeological sites and structural features in Greenland, created from field documentation in Adobe Illustrator.\nView the illustrations"
+  },
+  {
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "",
+    "text": "This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable, and model-oriented dataset."
+  },
+  {
+    "objectID": "dataset.html#project-overview",
+    "href": "dataset.html#project-overview",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "",
+    "text": "This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable, and model-oriented dataset."
+  },
+  {
+    "objectID": "dataset.html#my-role",
+    "href": "dataset.html#my-role",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "My role",
+    "text": "My role\n\nReviewed and structured ethnographic source material\nDeveloped source units and evidence-based claims\nApplied controlled vocabularies\nConnected claims to fire-use entries and comparative categories\nPrepared model-facing variables\nConducted quality assurance and public-data cleaning\nCreated documentation and visualizations"
+  },
+  {
+    "objectID": "dataset.html#dataset-structure",
+    "href": "dataset.html#dataset-structure",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "Dataset structure",
+    "text": "Dataset structure\n[Add a concise explanation and a selected image or diagram here.]"
+  },
+  {
+    "objectID": "dataset.html#research-and-data-challenges",
+    "href": "dataset.html#research-and-data-challenges",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "Research and data challenges",
+    "text": "Research and data challenges\n[Discuss evidence traceability, uncertainty, interpretation, cultural context, and the creation of the public-cleaned version here.]"
+  },
+  {
+    "objectID": "dataset.html#skills-demonstrated",
+    "href": "dataset.html#skills-demonstrated",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\n\nResearch data production\nRelational data organization\nControlled vocabulary development\nEvidence traceability\nData quality assurance\nResearch documentation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "illustrations.html",
+    "href": "illustrations.html",
+    "title": "Archaeological Illustration",
+    "section": "",
+    "text": "These vector illustrations were created in Adobe Illustrator from archaeological field documentation. The objective was to translate complex structural evidence into clear and consistent visual records."
+  },
+  {
+    "objectID": "illustrations.html#greenland-archaeological-features",
+    "href": "illustrations.html#greenland-archaeological-features",
+    "title": "Archaeological Illustration",
+    "section": "",
+    "text": "These vector illustrations were created in Adobe Illustrator from archaeological field documentation. The objective was to translate complex structural evidence into clear and consistent visual records."
+  },
+  {
+    "objectID": "illustrations.html#kitsissut-houses-and-umiaq-stand",
+    "href": "illustrations.html#kitsissut-houses-and-umiaq-stand",
+    "title": "Archaeological Illustration",
+    "section": "Kitsissut houses and umiaq stand",
+    "text": "Kitsissut houses and umiaq stand\n[Add the illustration and project explanation here.]"
+  },
+  {
+    "objectID": "illustrations.html#lethbridge-hut-1",
+    "href": "illustrations.html#lethbridge-hut-1",
+    "title": "Archaeological Illustration",
+    "section": "Lethbridge Hut 1",
+    "text": "Lethbridge Hut 1\n[Add the illustration and project explanation here.]"
+  },
+  {
+    "objectID": "illustrations.html#skills-demonstrated",
+    "href": "illustrations.html#skills-demonstrated",
+    "title": "Archaeological Illustration",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\n\nAdobe Illustrator\nVector illustration\nInterpretation of archaeological plans\nVisual standardization\nPublication-ready figure preparation"
+  },
+  {
+    "objectID": "maps.html",
+    "href": "maps.html",
+    "title": "Archaeological and Research Mapping",
+    "section": "",
+    "text": "[Explain what the map was designed to communicate.]\n\n\n\n\nCompiled and checked spatial source information\nManaged coordinate reference systems\nIntegrated boundaries, hydrology, elevation, and basemap information\nDeveloped map symbology and labeling\nCreated a publication-ready QGIS layout"
+  },
+  {
+    "objectID": "maps.html#regional-indigenous-fire-use-map",
+    "href": "maps.html#regional-indigenous-fire-use-map",
+    "title": "Archaeological and Research Mapping",
+    "section": "",
+    "text": "[Explain what the map was designed to communicate.]\n\n\n\n\nCompiled and checked spatial source information\nManaged coordinate reference systems\nIntegrated boundaries, hydrology, elevation, and basemap information\nDeveloped map symbology and labeling\nCreated a publication-ready QGIS layout"
+  },
+  {
+    "objectID": "maps.html#meander-river-close-up-map",
+    "href": "maps.html#meander-river-close-up-map",
+    "title": "Archaeological and Research Mapping",
+    "section": "Meander River close-up map",
+    "text": "Meander River close-up map\n[Add the project description and map here.]"
+  },
+  {
+    "objectID": "maps.html#skills-demonstrated",
+    "href": "maps.html#skills-demonstrated",
+    "title": "Archaeological and Research Mapping",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\n\nQGIS\nCoordinate reference systems\nVector and raster data\nCartographic design\nLabel placement\nPrint-layout production"
+  },
+  {
+    "objectID": "viz-circlepack.html",
+    "href": "viz-circlepack.html",
+    "title": "Evidence Traceability Circle Pack",
+    "section": "",
+    "text": "This interactive circle pack communicates relationships among evidence records, comparative fire classes, and canonical fire uses.\nHover over the circles to inspect individual categories. The figure is best viewed on a desktop or laptop.\nOpen the figure in a separate browser tab"
+  },
+  {
+    "objectID": "viz-spatial-treemap.html",
+    "href": "viz-spatial-treemap.html",
+    "title": "Spatial-Form Treemap",
+    "section": "",
+    "text": "This interactive treemap communicates how spatial forms are represented across the structured fire-use categories.\nHover over the treemap regions to inspect individual spatial forms and their associated information.\nOpen the figure in a separate browser tab"
+  }
+]

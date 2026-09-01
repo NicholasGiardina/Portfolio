@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+  resources:
+    - "interactive/**/*"
+    - "images/**/*"
+    - "files/**/*"
+
+website:
+  title: "Nicholas Giardina"
+  navbar:
+    background: "#27352f"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: dataset.qmd
+        text: Dataset
+      - href: visualizations.qmd
+        text: Visualizations
+      - href: maps.qmd
+        text: Mapping
+      - href: illustrations.qmd
+        text: Illustration
+      - href: about.qmd
+        text: About
+
+  page-footer:
+    left: "© 2026 Nicholas Giardina"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true

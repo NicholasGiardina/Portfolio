@@ -1,0 +1,42 @@
+---
+title: "Ethnographic Fire-Use Dataset"
+toc: true
+---
+
+## Project overview
+
+This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable, and model-oriented dataset.
+
+## My role
+
+- Reviewed and structured ethnographic source material
+- Developed source units and evidence-based claims
+- Applied controlled vocabularies
+- Connected claims to fire-use entries and comparative categories
+- Prepared model-facing variables
+- Conducted quality assurance and public-data cleaning
+- Created documentation and visualizations
+
+## Dataset structure
+
+\[Add a concise explanation and a selected image or diagram here.\]
+
+## Research and data challenges
+
+\[Discuss evidence traceability, uncertainty, interpretation, cultural context, and the creation of the public-cleaned version here.\]
+
+## Skills demonstrated
+
+- Research data production
+
+- Relational data organization
+
+- Controlled vocabulary development
+
+- Evidence traceability
+
+- Data quality assurance
+
+- 
+
+  ## Research documentation

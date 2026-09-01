@@ -1,0 +1,36 @@
+---
+title: "Interactive Data Visualizations"
+toc: false
+---
+
+These interactive figures were developed in R to communicate the
+structure, evidence relationships, and model-facing characteristics of
+the ethnographic fire-use dataset.
+
+## Evidence traceability circle pack
+
+This visualization communicates relationships among evidence records,
+comparative fire classes, and canonical fire uses.
+
+[Explore the circle pack](viz-circlepack.qmd){.btn .btn-primary}
+
+## Comparative class and ontology heatmap
+
+This heatmap compares comparative fire classes across selected ontology
+and model-facing variables.
+
+[Explore the ontology heatmap](viz-ontology-heatmap.qmd){.btn .btn-primary}
+
+## Spatial-form treemap
+
+This treemap communicates how spatial forms are represented across the
+structured fire-use categories.
+
+[Explore the spatial-form treemap](viz-spatial-treemap.qmd){.btn .btn-primary}
+
+## Timing and spatial-form heatmap
+
+This heatmap explores relationships between documented timing regimes
+and spatial forms.
+
+[Explore the timing heatmap](viz-timing-spatial.qmd){.btn .btn-primary}

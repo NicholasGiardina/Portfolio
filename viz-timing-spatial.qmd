@@ -1,0 +1,21 @@
+---
+title: "Timing and Spatial-Form Heatmap"
+page-layout: full
+toc: false
+---
+
+This interactive heatmap explores relationships between documented
+timing regimes and the spatial forms of fire practices.
+
+The timing categories distinguish season-specific, multi-season, and
+other or unspecified timing patterns.
+
+[Open the figure in a separate browser tab](interactive/timing-spatial-heatmap.html){target="_blank"}
+
+<iframe
+  class="interactive-frame timing-frame"
+  src="interactive/timing-spatial-heatmap.html"
+  title="Interactive timing and spatial-form heatmap"
+  loading="lazy"
+  scrolling="no">
+</iframe>

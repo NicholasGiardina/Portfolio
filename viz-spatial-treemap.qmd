@@ -1,0 +1,25 @@
+---
+title: "Spatial-Form Treemap"
+page-layout: full
+toc: false
+---
+
+This interactive treemap communicates how spatial forms are represented
+across the structured fire-use categories.
+
+Hover over the treemap regions to inspect individual spatial forms and
+their associated information.
+
+[Open the figure in a separate browser tab](interactive/spatial-form-treemap.html){target="_blank"}
+
+::: {.column-screen-inset}
+
+<iframe
+  class="interactive-frame treemap-frame"
+  src="interactive/spatial-form-treemap.html"
+  title="Interactive spatial-form treemap"
+  loading="lazy"
+  scrolling="no">
+</iframe>
+
+:::
