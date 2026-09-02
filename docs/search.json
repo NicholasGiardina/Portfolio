@@ -18,35 +18,35 @@
     "href": "visualizations.html",
     "title": "Interactive Data Visualizations",
     "section": "",
-    "text": "These interactive figures were developed in R to communicate the structure, evidence relationships, and model-facing characteristics of the ethnographic fire-use dataset."
+    "text": "These interactive figures were developed in R to communicate the structure, evidence relationships, and model-facing characteristics of the ethnographic fire-use dataset. Select a preview to open the complete interactive visualization."
   },
   {
     "objectID": "visualizations.html#evidence-traceability-circle-pack",
     "href": "visualizations.html#evidence-traceability-circle-pack",
     "title": "Interactive Data Visualizations",
-    "section": "Evidence traceability circle pack",
-    "text": "Evidence traceability circle pack\nThis visualization communicates relationships among evidence records, comparative fire classes, and canonical fire uses.\nExplore the circle pack"
+    "section": "Evidence Traceability Circle Pack",
+    "text": "Evidence Traceability Circle Pack\n\nThis visualization communicates relationships among evidence records, comparative fire classes, canonical fire uses, provisional uses, and supporting atomic claims.\nExplore the circle pack"
   },
   {
     "objectID": "visualizations.html#comparative-class-and-ontology-heatmap",
     "href": "visualizations.html#comparative-class-and-ontology-heatmap",
     "title": "Interactive Data Visualizations",
-    "section": "Comparative class and ontology heatmap",
-    "text": "Comparative class and ontology heatmap\nThis heatmap compares comparative fire classes across selected ontology and model-facing variables.\nExplore the ontology heatmap"
+    "section": "Comparative Class and Ontology Heatmap",
+    "text": "Comparative Class and Ontology Heatmap\n\nThis heatmap compares comparative fire classes across selected ontology and model-facing variables, with alternate views for primary and secondary associations.\nExplore the ontology heatmap"
   },
   {
     "objectID": "visualizations.html#spatial-form-treemap",
     "href": "visualizations.html#spatial-form-treemap",
     "title": "Interactive Data Visualizations",
-    "section": "Spatial-form treemap",
-    "text": "Spatial-form treemap\nThis treemap communicates how spatial forms are represented across the structured fire-use categories.\nExplore the spatial-form treemap"
+    "section": "Spatial-Form Treemap",
+    "text": "Spatial-Form Treemap\n\nThis treemap communicates how canonical fire uses are distributed among normalized spatial forms and related categories.\nExplore the spatial-form treemap"
   },
   {
     "objectID": "visualizations.html#timing-and-spatial-form-heatmap",
     "href": "visualizations.html#timing-and-spatial-form-heatmap",
     "title": "Interactive Data Visualizations",
-    "section": "Timing and spatial-form heatmap",
-    "text": "Timing and spatial-form heatmap\nThis heatmap explores relationships between documented timing regimes and spatial forms.\nExplore the timing heatmap"
+    "section": "Timing and Spatial-Form Heatmap",
+    "text": "Timing and Spatial-Form Heatmap\n\nThis heatmap explores relationships between documented timing regimes and the spatial forms of canonical fire uses.\nExplore the timing heatmap"
   },
   {
     "objectID": "index.html",
@@ -91,6 +91,27 @@
     "text": "Dataset structure\n[Add a concise explanation and a selected image or diagram here.]"
   },
   {
+    "objectID": "dataset.html#database-design-and-research-workflow",
+    "href": "dataset.html#database-design-and-research-workflow",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "Database Design and Research Workflow",
+    "text": "Database Design and Research Workflow\nThis figure summarizes how source material was transformed into a structured and reviewable database. It distinguishes source material, LLM-assisted processing, human supervision, and resulting database outputs. The second panel shows the relationships and purposes of the Version 2.0 workbook tables.\n\n\n\n\nDataset: Fire-use database Version 2.0, developed by Matthew Walls and Nicholas Giardina. Figure: Nicholas Giardina.\n\n\nOpen full-size figure\nDownload PDF\n\nMy role: I helped develop, clean, and validate the relational database and produced this figure in R to communicate its workflow and table structure.\nSkills demonstrated: Relational data organization, evidence traceability, data quality control, responsible use of LLM-assisted methods, workflow documentation, and technical visualization."
+  },
+  {
+    "objectID": "dataset.html#model-facing-data-architecture",
+    "href": "dataset.html#model-facing-data-architecture",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "Model-Facing Data Architecture",
+    "text": "Model-Facing Data Architecture\nThe Modeling Crosswalk translates 51 source-traceable canonical fire uses into qualitative descriptors that can support comparative research and responsible model development. The figure organizes those descriptors into practice, space and time, expected fire behaviour, ecological response, and evidence and reuse.\n\n\n\n\nSource: Fire-use database Version 2.0. Figure: Nicholas Giardina.\n\n\nOpen full-size figure\nDownload PDF\n\nMy role: I helped structure and validate the model-facing variables and created this figure to explain how evidence-based cultural information is translated into cautious qualitative modeling descriptors.\nSkills demonstrated: Data modeling, variable design, qualitative data transformation, research communication, visual hierarchy, and responsible model-use documentation."
+  },
+  {
+    "objectID": "dataset.html#worked-crosswalk-example",
+    "href": "dataset.html#worked-crosswalk-example",
+    "title": "Ethnographic Fire-Use Dataset",
+    "section": "Worked Crosswalk Example",
+    "text": "Worked Crosswalk Example\nThis worked example shows how one canonical fire-use record is represented in the Modeling Crosswalk. CFU-007 is supported by five sources, six source units, and 47 linked claims.\n\n\n\n\nRecord: CFU-007, Moose-browse and hunting-site burning. Source: Fire-use database Version 2.0. Figure: Nicholas Giardina.\n\n\nOpen full-size figure\nDownload PDF\n\nThis example demonstrates how the database retains source support, evidence strength, and cautions while making selected information usable for qualitative modeling scenarios."
+  },
+  {
     "objectID": "dataset.html#research-and-data-challenges",
     "href": "dataset.html#research-and-data-challenges",
     "title": "Ethnographic Fire-Use Dataset",
@@ -116,63 +137,42 @@
     "href": "illustrations.html",
     "title": "Archaeological Illustration",
     "section": "",
-    "text": "These vector illustrations were created in Adobe Illustrator from archaeological field documentation. The objective was to translate complex structural evidence into clear and consistent visual records."
+    "text": "This technical archaeological illustration documents the form and recorded features of Lethbridge Hut 1 at Kitsissut.\n\n\nOpen full-size completed illustration\n\nMy role: I converted supplied archaeological feature information into a finished vector illustration in Adobe Illustrator.\nSkills demonstrated: Archaeological interpretation, precise vector linework, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality graphics.\nSource and context: Produced from archaeological plan data supplied for the Kitsissut research project.\n\n\nView an earlier working version\n\n\n Open earlier working version (PDF)"
   },
   {
-    "objectID": "illustrations.html#greenland-archaeological-features",
-    "href": "illustrations.html#greenland-archaeological-features",
+    "objectID": "illustrations.html#kitsissut-lethbridge-hut-1",
+    "href": "illustrations.html#kitsissut-lethbridge-hut-1",
     "title": "Archaeological Illustration",
     "section": "",
-    "text": "These vector illustrations were created in Adobe Illustrator from archaeological field documentation. The objective was to translate complex structural evidence into clear and consistent visual records."
+    "text": "This technical archaeological illustration documents the form and recorded features of Lethbridge Hut 1 at Kitsissut.\n\n\nOpen full-size completed illustration\n\nMy role: I converted supplied archaeological feature information into a finished vector illustration in Adobe Illustrator.\nSkills demonstrated: Archaeological interpretation, precise vector linework, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality graphics.\nSource and context: Produced from archaeological plan data supplied for the Kitsissut research project.\n\n\nView an earlier working version\n\n\n Open earlier working version (PDF)"
   },
   {
-    "objectID": "illustrations.html#kitsissut-houses-and-umiaq-stand",
-    "href": "illustrations.html#kitsissut-houses-and-umiaq-stand",
+    "objectID": "illustrations.html#kitsissut-tent-ring-24",
+    "href": "illustrations.html#kitsissut-tent-ring-24",
     "title": "Archaeological Illustration",
-    "section": "Kitsissut houses and umiaq stand",
-    "text": "Kitsissut houses and umiaq stand\n[Add the illustration and project explanation here.]"
-  },
-  {
-    "objectID": "illustrations.html#lethbridge-hut-1",
-    "href": "illustrations.html#lethbridge-hut-1",
-    "title": "Archaeological Illustration",
-    "section": "Lethbridge Hut 1",
-    "text": "Lethbridge Hut 1\n[Add the illustration and project explanation here.]"
-  },
-  {
-    "objectID": "illustrations.html#skills-demonstrated",
-    "href": "illustrations.html#skills-demonstrated",
-    "title": "Archaeological Illustration",
-    "section": "Skills demonstrated",
-    "text": "Skills demonstrated\n\nAdobe Illustrator\nVector illustration\nInterpretation of archaeological plans\nVisual standardization\nPublication-ready figure preparation"
+    "section": "Kitsissut: Tent Ring 24",
+    "text": "Kitsissut: Tent Ring 24\nThis technical archaeological illustration documents the layout and recorded features of Tent Ring 24 at Kitsissut.\n\n\nOpen full-size completed illustration\n\nMy role: I converted supplied archaeological feature information into a finished vector illustration in Adobe Illustrator.\nSkills demonstrated: Archaeological interpretation, precise vector linework, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality graphics.\nSource and context: Produced from archaeological plan data supplied for the Kitsissut research project.\n\n\nView an earlier working version\n\n\n Open earlier working version (JPEG)"
   },
   {
     "objectID": "maps.html",
     "href": "maps.html",
-    "title": "Archaeological and Research Mapping",
+    "title": "Mapping",
     "section": "",
-    "text": "[Explain what the map was designed to communicate.]\n\n\n\n\nCompiled and checked spatial source information\nManaged coordinate reference systems\nIntegrated boundaries, hydrology, elevation, and basemap information\nDeveloped map symbology and labeling\nCreated a publication-ready QGIS layout"
+    "text": "This regional map situates the communities, ethnographic source locations, contextual places, waterways, and administrative boundaries relevant to the northern Alberta fire-use research.\n\n\nCRS: NAD83(CSRS) / Alberta 10-TM (Forest) (EPSG:3402).\nSources: Government of Alberta / Alberta Data Partnerships Ltd. (reserve boundaries); Parks Canada (Wood Buffalo National Park boundary); Natural Resources Canada, Canada3D (elevation and derived hillshade); © OpenStreetMap contributors (Alberta boundary, rivers, and lakes), ODbL. Source and contextual locations compiled by Matthew Walls primarily from project source literature. Cartography by Nicholas Giardina.\n\n\nOpen full-size map\nDownload credited PDF\n\nMy role: I designed and produced this map in QGIS to communicate the geographic context of the ethnographic fire-use dataset.\nSkills demonstrated: Coordinate reference system management, spatial data organization, cartographic hierarchy, symbology, labeling, print-layout design, and export preparation.\nDesign approach: Places directly associated with the source material are visually distinguished from broader contextual locations and boundaries. The map balances regional orientation with the visibility of communities, waterways, and the Wood Buffalo National Park context."
   },
   {
-    "objectID": "maps.html#regional-indigenous-fire-use-map",
-    "href": "maps.html#regional-indigenous-fire-use-map",
-    "title": "Archaeological and Research Mapping",
+    "objectID": "maps.html#regional-fire-use-research-map",
+    "href": "maps.html#regional-fire-use-research-map",
+    "title": "Mapping",
     "section": "",
-    "text": "[Explain what the map was designed to communicate.]\n\n\n\n\nCompiled and checked spatial source information\nManaged coordinate reference systems\nIntegrated boundaries, hydrology, elevation, and basemap information\nDeveloped map symbology and labeling\nCreated a publication-ready QGIS layout"
+    "text": "This regional map situates the communities, ethnographic source locations, contextual places, waterways, and administrative boundaries relevant to the northern Alberta fire-use research.\n\n\nCRS: NAD83(CSRS) / Alberta 10-TM (Forest) (EPSG:3402).\nSources: Government of Alberta / Alberta Data Partnerships Ltd. (reserve boundaries); Parks Canada (Wood Buffalo National Park boundary); Natural Resources Canada, Canada3D (elevation and derived hillshade); © OpenStreetMap contributors (Alberta boundary, rivers, and lakes), ODbL. Source and contextual locations compiled by Matthew Walls primarily from project source literature. Cartography by Nicholas Giardina.\n\n\nOpen full-size map\nDownload credited PDF\n\nMy role: I designed and produced this map in QGIS to communicate the geographic context of the ethnographic fire-use dataset.\nSkills demonstrated: Coordinate reference system management, spatial data organization, cartographic hierarchy, symbology, labeling, print-layout design, and export preparation.\nDesign approach: Places directly associated with the source material are visually distinguished from broader contextual locations and boundaries. The map balances regional orientation with the visibility of communities, waterways, and the Wood Buffalo National Park context."
   },
   {
     "objectID": "maps.html#meander-river-close-up-map",
     "href": "maps.html#meander-river-close-up-map",
-    "title": "Archaeological and Research Mapping",
-    "section": "Meander River close-up map",
-    "text": "Meander River close-up map\n[Add the project description and map here.]"
-  },
-  {
-    "objectID": "maps.html#skills-demonstrated",
-    "href": "maps.html#skills-demonstrated",
-    "title": "Archaeological and Research Mapping",
-    "section": "Skills demonstrated",
-    "text": "Skills demonstrated\n\nQGIS\nCoordinate reference systems\nVector and raster data\nCartographic design\nLabel placement\nPrint-layout production"
+    "title": "Mapping",
+    "section": "Meander River Close-Up Map",
+    "text": "Meander River Close-Up Map\nThis close-up map provides more detailed geographic context for Meander River and the surrounding landscape discussed in the research sources.\n\n\nCRS: NAD83(CSRS) / Alberta 10-TM (Forest) (EPSG:3402).\nSources: Government of Alberta / Alberta Data Partnerships Ltd. (reserve boundary); © OpenStreetMap contributors (rivers), ODbL. Imagery: Esri World Imagery, Vantor WorldView-3 (WV03), acquired 17 June 2025. Source and contextual locations compiled by Matthew Walls primarily from project source literature. Cartography by Nicholas Giardina.\n\n\nOpen full-size map\nDownload credited PDF\n\nMy role: I designed this close-up map in QGIS to complement the regional map with a more localized view.\nSkills demonstrated: Multi-scale cartographic design, basemap integration, hydrology display, label placement, visual hierarchy, and print-layout production.\nDesign approach: The map retains enough surrounding landscape context to orient the viewer while focusing attention on Meander River and the locally relevant features."
   },
   {
     "objectID": "viz-circlepack.html",

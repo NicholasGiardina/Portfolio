@@ -12,3 +12,4 @@
 *.qgz
 *.7z
 *.ai
+**/*.quarto_ipynb

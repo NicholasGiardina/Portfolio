@@ -37,7 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -124,24 +123,12 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project overview</a></li>
-  <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role">My role</a></li>
-  <li><a href="#dataset-structure" id="toc-dataset-structure" class="nav-link" data-scroll-target="#dataset-structure">Dataset structure</a></li>
-  <li><a href="#research-and-data-challenges" id="toc-research-and-data-challenges" class="nav-link" data-scroll-target="#research-and-data-challenges">Research and data challenges</a></li>
-  <li><a href="#skills-demonstrated" id="toc-skills-demonstrated" class="nav-link" data-scroll-target="#skills-demonstrated">Skills demonstrated</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full column-body" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -150,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -163,11 +150,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="project-overview" class="level2">
-<h2 class="anchored" data-anchor-id="project-overview">Project overview</h2>
+<h2 data-anchor-id="project-overview">Project overview</h2>
 <p>This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable, and model-oriented dataset.</p>
 </section>
 <section id="my-role" class="level2">
-<h2 class="anchored" data-anchor-id="my-role">My role</h2>
+<h2 data-anchor-id="my-role">My role</h2>
 <ul>
 <li>Reviewed and structured ethnographic source material</li>
 <li>Developed source units and evidence-based claims</li>
@@ -179,22 +166,71 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="dataset-structure" class="level2">
-<h2 class="anchored" data-anchor-id="dataset-structure">Dataset structure</h2>
+<h2 data-anchor-id="dataset-structure">Dataset structure</h2>
 <p>[Add a concise explanation and a selected image or diagram here.]</p>
 </section>
+<section id="database-design-and-research-workflow" class="level2 page-columns page-full">
+<h2 data-anchor-id="database-design-and-research-workflow">Database Design and Research Workflow</h2>
+<p>This figure summarizes how source material was transformed into a structured and reviewable database. It distinguishes source material, LLM-assisted processing, human supervision, and resulting database outputs. The second panel shows the relationships and purposes of the Version 2.0 workbook tables.</p>
+<div class="column-screen-inset">
+<p><a href="images/figures/fire-database-workflow.svg" target="_blank"><img src="images/figures/fire-database-workflow.svg" class="static-preview research-figure-preview img-fluid" alt="Two-panel diagram showing the human-supervised and LLM-assisted development workflow and table structure of the Version 2.0 fire-use database"></a></p>
+</div>
+<div class="figure-note">
+<p><strong>Dataset:</strong> Fire-use database Version 2.0, developed by Matthew Walls and Nicholas Giardina. <strong>Figure:</strong> Nicholas Giardina.</p>
+</div>
+<div class="portfolio-actions">
+<p><a href="images/figures/fire-database-workflow.svg" class="btn btn-primary" target="_blank">Open full-size figure</a></p>
+<p><a href="files/figures/fire-database-workflow.pdf" class="btn btn-outline-secondary" target="_blank">Download PDF</a></p>
+</div>
+<p><strong>My role:</strong> I helped develop, clean, and validate the relational database and produced this figure in R to communicate its workflow and table structure.</p>
+<p><strong>Skills demonstrated:</strong> Relational data organization, evidence traceability, data quality control, responsible use of LLM-assisted methods, workflow documentation, and technical visualization.</p>
+<hr>
+</section>
+<section id="model-facing-data-architecture" class="level2 page-columns page-full">
+<h2 data-anchor-id="model-facing-data-architecture">Model-Facing Data Architecture</h2>
+<p>The Modeling Crosswalk translates 51 source-traceable canonical fire uses into qualitative descriptors that can support comparative research and responsible model development. The figure organizes those descriptors into practice, space and time, expected fire behaviour, ecological response, and evidence and reuse.</p>
+<div class="column-screen-inset">
+<p><a href="images/figures/model-facing-architecture.svg" target="_blank"><img src="images/figures/model-facing-architecture.svg" class="static-preview research-figure-preview img-fluid" alt="Diagram showing how 51 canonical fire uses connect through the Modeling Crosswalk to model-use guidance"></a></p>
+</div>
+<div class="figure-note">
+<p><strong>Source:</strong> Fire-use database Version 2.0. <strong>Figure:</strong> Nicholas Giardina.</p>
+</div>
+<div class="portfolio-actions">
+<p><a href="images/figures/model-facing-architecture.svg" class="btn btn-primary" target="_blank">Open full-size figure</a></p>
+<p><a href="files/figures/model-facing-architecture.pdf" class="btn btn-outline-secondary" target="_blank">Download PDF</a></p>
+</div>
+<p><strong>My role:</strong> I helped structure and validate the model-facing variables and created this figure to explain how evidence-based cultural information is translated into cautious qualitative modeling descriptors.</p>
+<p><strong>Skills demonstrated:</strong> Data modeling, variable design, qualitative data transformation, research communication, visual hierarchy, and responsible model-use documentation.</p>
+<hr>
+</section>
+<section id="worked-crosswalk-example" class="level2 page-columns page-full">
+<h2 data-anchor-id="worked-crosswalk-example">Worked Crosswalk Example</h2>
+<p>This worked example shows how one canonical fire-use record is represented in the Modeling Crosswalk. CFU-007 is supported by five sources, six source units, and 47 linked claims.</p>
+<div class="column-screen-inset">
+<p><a href="images/figures/model-facing-example.svg" target="_blank"><img src="images/figures/model-facing-example.svg" class="static-preview research-figure-preview img-fluid" alt="Worked example showing how CFU-007 Moose-browse and hunting-site burning is represented using model-facing descriptors"></a></p>
+</div>
+<div class="figure-note">
+<p><strong>Record:</strong> CFU-007, Moose-browse and hunting-site burning. <strong>Source:</strong> Fire-use database Version 2.0. <strong>Figure:</strong> Nicholas Giardina.</p>
+</div>
+<div class="portfolio-actions">
+<p><a href="images/figures/model-facing-example.svg" class="btn btn-primary" target="_blank">Open full-size figure</a></p>
+<p><a href="files/figures/model-facing-example.pdf" class="btn btn-outline-secondary" target="_blank">Download PDF</a></p>
+</div>
+<p>This example demonstrates how the database retains source support, evidence strength, and cautions while making selected information usable for qualitative modeling scenarios.</p>
+</section>
 <section id="research-and-data-challenges" class="level2">
-<h2 class="anchored" data-anchor-id="research-and-data-challenges">Research and data challenges</h2>
+<h2 data-anchor-id="research-and-data-challenges">Research and data challenges</h2>
 <p>[Discuss evidence traceability, uncertainty, interpretation, cultural context, and the creation of the public-cleaned version here.]</p>
 </section>
 <section id="skills-demonstrated" class="level2">
-<h2 class="anchored" data-anchor-id="skills-demonstrated">Skills demonstrated</h2>
+<h2 data-anchor-id="skills-demonstrated">Skills demonstrated</h2>
 <ul>
-<li><p>Research data production</p></li>
-<li><p>Relational data organization</p></li>
-<li><p>Controlled vocabulary development</p></li>
-<li><p>Evidence traceability</p></li>
-<li><p>Data quality assurance</p></li>
-<li><h2 id="research-documentation" class="anchored">Research documentation</h2></li>
+<li>Research data production</li>
+<li>Relational data organization</li>
+<li>Controlled vocabulary development</li>
+<li>Evidence traceability</li>
+<li>Data quality assurance</li>
+<li>Research documentation</li>
 </ul>
 
 
@@ -203,13 +239,6 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

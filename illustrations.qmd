@@ -1,30 +1,57 @@
 ---
 title: "Archaeological Illustration"
-toc: true
+page-layout: full
 ---
 
-## Greenland archaeological features
+## Kitsissut: Lethbridge Hut 1
 
-These vector illustrations were created in Adobe Illustrator from archaeological field documentation. The objective was to translate complex structural evidence into clear and consistent visual records.
+This technical archaeological illustration documents the form and recorded features of Lethbridge Hut 1 at Kitsissut.
 
-## Kitsissut houses and umiaq stand
+[![](images/illustrations/lethbridge-hut-1-final.png){.static-preview .illustration-preview fig-alt="Completed technical archaeological illustration of Lethbridge Hut 1 at Kitsissut"}](images/illustrations/lethbridge-hut-1-final.png){target="_blank"}
 
-\[Add the illustration and project explanation here.\]
+::: {.portfolio-actions}
+[Open full-size completed illustration](images/illustrations/lethbridge-hut-1-final.png){.btn .btn-primary target="_blank"}
+:::
 
-## Lethbridge Hut 1
+**My role:** I converted supplied archaeological feature information into a finished vector illustration in Adobe Illustrator.
 
-\[Add the illustration and project explanation here.\]
+**Skills demonstrated:** Archaeological interpretation, precise vector linework, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality graphics.
 
-## Skills demonstrated
+**Source and context:** Produced from archaeological plan data supplied for the Kitsissut research project.
+<details class="process-version">
+<summary>View an earlier working version</summary>
+<p>
+<a href="files/illustrations/process/lethbridge-hut-1-before.pdf"
+   target="_blank"
+   rel="noopener">
+Open earlier working version (PDF)
+</a>
+</p>
+</details>
+---
 
-- Adobe Illustrator
+## Kitsissut: Tent Ring 24
 
-- Vector illustration
+This technical archaeological illustration documents the layout and recorded features of Tent Ring 24 at Kitsissut.
 
-- Interpretation of archaeological plans
+[![](images/illustrations/tent-ring-24-final.png){.static-preview .illustration-preview fig-alt="Completed technical archaeological illustration of Tent Ring 24 at Kitsissut"}](images/illustrations/tent-ring-24-final.png){target="_blank"}
 
-- Visual standardization
+::: {.portfolio-actions}
+[Open full-size completed illustration](images/illustrations/tent-ring-24-final.png){.btn .btn-primary target="_blank"}
+:::
 
-- 
+**My role:** I converted supplied archaeological feature information into a finished vector illustration in Adobe Illustrator.
 
-  ## Publication-ready figure preparation
+**Skills demonstrated:** Archaeological interpretation, precise vector linework, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality graphics.
+
+**Source and context:** Produced from archaeological plan data supplied for the Kitsissut research project.
+<details class="process-version">
+<summary>View an earlier working version</summary>
+<p>
+<a href="images/illustrations/process/tent-ring-24-before.jpg"
+   target="_blank"
+   rel="noopener">
+Open earlier working version (JPEG)
+</a>
+</p>
+</details>

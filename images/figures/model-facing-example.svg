@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1008.00pt' height='619.20pt' viewBox='0 0 1008.00 619.20'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FBFAF7;'/>
+<defs>
+  <clipPath id='cpMC4wMHwxMDA4LjAwfDAuMDB8NjE5LjIw'>
+    <rect x='0.00' y='0.00' width='1008.00' height='619.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxMDA4LjAwfDAuMDB8NjE5LjIw)'>
+<rect x='0.00' y='0.00' width='1008.00' height='619.20' style='stroke-width: 0.00; stroke: none; fill: #FBFAF7;' />
+<rect x='66.51' y='88.12' width='168.02' height='465.96' style='stroke-width: 1.24; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #FBFAF7;' />
+<rect x='292.69' y='88.12' width='378.04' height='465.96' style='stroke-width: 1.24; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #FBFAF7;' />
+<rect x='722.42' y='88.12' width='219.72' height='465.96' style='stroke-width: 1.24; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #FBFAF7;' />
+<rect x='66.51' y='88.12' width='168.02' height='44.24' style='stroke-width: 1.24; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #E4CE9F;' />
+<rect x='292.69' y='88.12' width='378.04' height='44.24' style='stroke-width: 1.24; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D8A08D;' />
+<rect x='722.42' y='88.12' width='219.72' height='44.24' style='stroke-width: 1.24; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #A7B59F;' />
+<line x1='245.51' y1='321.83' x2='281.05' y2='321.83' style='stroke-width: 1.54; stroke: #655C56; stroke-linecap: butt;' />
+<polygon points='274.82,325.43 281.05,321.83 274.82,318.23 ' style='stroke-width: 1.54; stroke: #655C56; stroke-linecap: butt; fill: #655C56;' />
+<line x1='678.48' y1='321.83' x2='714.02' y2='321.83' style='stroke-width: 1.54; stroke: #655C56; stroke-linecap: butt;' />
+<polygon points='707.79,325.43 714.02,321.83 707.79,318.23 ' style='stroke-width: 1.54; stroke: #655C56; stroke-linecap: butt; fill: #655C56;' />
+<text x='263.28' y='300.24' text-anchor='middle' style='font-size: 8.68px;fill: #2D2926; font-family: "Arial";' textLength='46.33px' lengthAdjust='spacingAndGlyphs'>represented</text>
+<text x='263.28' y='309.82' text-anchor='middle' style='font-size: 8.68px;fill: #2D2926; font-family: "Arial";' textLength='9.17px' lengthAdjust='spacingAndGlyphs'>as</text>
+<text x='696.25' y='305.13' text-anchor='middle' style='font-size: 8.96px;fill: #2D2926; font-family: "Arial";' textLength='37.84px' lengthAdjust='spacingAndGlyphs'>used with</text>
+<text x='152.13' y='108.27' text-anchor='middle' style='font-size: 10.10px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='108.86px' lengthAdjust='spacingAndGlyphs'>SOURCE-TRACEABLE</text>
+<text x='152.13' y='119.42' text-anchor='middle' style='font-size: 10.10px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='106.97px' lengthAdjust='spacingAndGlyphs'>CANONICAL RECORD</text>
+<text x='480.09' y='113.85' text-anchor='middle' style='font-size: 10.10px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='255.05px' lengthAdjust='spacingAndGlyphs'>SELECTED MODELING CROSSWALK DESCRIPTORS</text>
+<text x='832.28' y='113.85' text-anchor='middle' style='font-size: 10.10px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='117.23px' lengthAdjust='spacingAndGlyphs'>MODEL-USE GUIDANCE</text>
+<text x='152.13' y='162.51' text-anchor='middle' style='font-size: 10.10px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='40.95px' lengthAdjust='spacingAndGlyphs'>CFU-007</text>
+<text x='152.13' y='187.87' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='145.56px' lengthAdjust='spacingAndGlyphs'>Moose-browse and hunting-site</text>
+<text x='152.13' y='198.78' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='35.98px' lengthAdjust='spacingAndGlyphs'>burning</text>
+<rect x='74.26' y='214.93' width='155.74' height='84.79' style='stroke-width: 0.77; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #F3E6CC;' />
+<text x='83.31' y='234.45' style='font-size: 9.25px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='52.33px' lengthAdjust='spacingAndGlyphs'>DEFINITION</text>
+<text x='83.31' y='255.46' style='font-size: 9.25px;fill: #2D2926; font-family: "Arial";' textLength='137.11px' lengthAdjust='spacingAndGlyphs'>Burning of brush, small openings,</text>
+<text x='83.31' y='265.00' style='font-size: 9.25px;fill: #2D2926; font-family: "Arial";' textLength='141.72px' lengthAdjust='spacingAndGlyphs'>creek margins, muskeg prairies, or</text>
+<text x='83.31' y='274.54' style='font-size: 9.25px;fill: #2D2926; font-family: "Arial";' textLength='137.16px' lengthAdjust='spacingAndGlyphs'>deadfall-derived yards to produce</text>
+<text x='83.31' y='284.09' style='font-size: 9.25px;fill: #2D2926; font-family: "Arial";' textLength='123.30px' lengthAdjust='spacingAndGlyphs'>young browse and predictable</text>
+<text x='83.31' y='293.63' style='font-size: 9.25px;fill: #2D2926; font-family: "Arial";' textLength='73.97px' lengthAdjust='spacingAndGlyphs'>moose-use areas.</text>
+<rect x='74.26' y='307.82' width='155.74' height='57.51' style='stroke-width: 0.77; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #F3E6CC;' />
+<text x='83.31' y='323.66' style='font-size: 9.25px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='100.72px' lengthAdjust='spacingAndGlyphs'>COMPARATIVE CLASS</text>
+<text x='83.31' y='343.19' style='font-size: 9.25px;fill: #2D2926; font-family: "Arial";' textLength='117.59px' lengthAdjust='spacingAndGlyphs'>CFC-006 — Hunting-support</text>
+<text x='83.31' y='352.74' style='font-size: 9.25px;fill: #2D2926; font-family: "Arial";' textLength='101.69px' lengthAdjust='spacingAndGlyphs'>and animal-response fire</text>
+<rect x='74.26' y='372.70' width='155.74' height='35.39' style='stroke-width: 0.77; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #F3E6CC;' />
+<text x='83.31' y='388.54' style='font-size: 9.25px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='100.56px' lengthAdjust='spacingAndGlyphs'>EVIDENCE STRENGTH</text>
+<text x='219.66' y='392.34' text-anchor='end' style='font-size: 9.53px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='6.89px' lengthAdjust='spacingAndGlyphs'>B</text>
+<rect x='74.26' y='418.41' width='155.74' height='58.98' style='stroke-width: 0.77; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #F3E6CC;' />
+<text x='83.31' y='435.73' style='font-size: 9.25px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='115.45px' lengthAdjust='spacingAndGlyphs'>SOURCE INDEPENDENCE</text>
+<text x='83.31' y='455.89' style='font-size: 9.10px;fill: #2D2926; font-family: "Arial";' textLength='74.89px' lengthAdjust='spacingAndGlyphs'>partly independent</text>
+<text x='83.31' y='465.28' style='font-size: 9.10px;fill: #2D2926; font-family: "Arial";' textLength='83.47px' lengthAdjust='spacingAndGlyphs'>overlapping lineages</text>
+<rect x='74.26' y='487.72' width='155.74' height='50.13' style='stroke-width: 0.77; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #E4CE9F;' />
+<text x='152.13' y='503.56' text-anchor='middle' style='font-size: 9.25px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='81.58px' lengthAdjust='spacingAndGlyphs'>LINKED SUPPORT</text>
+<text x='152.13' y='517.98' text-anchor='middle' style='font-size: 9.10px;fill: #2D2926; font-family: "Arial";' textLength='108.42px' lengthAdjust='spacingAndGlyphs'>5 sources | 6 source units |</text>
+<text x='152.13' y='527.37' text-anchor='middle' style='font-size: 9.10px;fill: #2D2926; font-family: "Arial";' textLength='38.42px' lengthAdjust='spacingAndGlyphs'>47 claims</text>
+<rect x='299.15' y='144.15' width='361.88' height='89.95' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #EFE3CE;' />
+<rect x='299.15' y='248.84' width='361.88' height='88.47' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #E8D5B2;' />
+<rect x='299.15' y='352.06' width='361.88' height='91.42' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D8C9AA;' />
+<rect x='299.15' y='458.23' width='361.88' height='79.63' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #CAD5C5;' />
+<text x='313.36' y='164.38' style='font-size: 10.76px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='66.91px' lengthAdjust='spacingAndGlyphs'>1. PRACTICE</text>
+<text x='313.36' y='269.07' style='font-size: 10.76px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='114.86px' lengthAdjust='spacingAndGlyphs'>2. PLACE AND TIMING</text>
+<text x='313.36' y='372.29' style='font-size: 10.76px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='97.38px' lengthAdjust='spacingAndGlyphs'>3. EXPECTED FIRE</text>
+<text x='313.36' y='478.46' style='font-size: 10.76px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='146.16px' lengthAdjust='spacingAndGlyphs'>4. ECOLOGICAL RESPONSE</text>
+<text x='313.36' y='186.86' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='117.20px' lengthAdjust='spacingAndGlyphs'>Action: ignite/maintain fire</text>
+<text x='313.36' y='197.68' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='180.86px' lengthAdjust='spacingAndGlyphs'>Target or fuel: woody vegetation/browse</text>
+<text x='313.36' y='208.49' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='87.05px' lengthAdjust='spacingAndGlyphs'>Beneficiary: moose</text>
+<text x='313.36' y='291.55' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='217.31px' lengthAdjust='spacingAndGlyphs'>Landscape position: hunting area/animal habitat</text>
+<text x='313.36' y='302.37' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='117.17px' lengthAdjust='spacingAndGlyphs'>Spatial form: edge/margin</text>
+<text x='313.36' y='313.19' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='147.36px' lengthAdjust='spacingAndGlyphs'>Seasonality: spring/multi-season</text>
+<text x='313.36' y='324.00' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='137.64px' lengthAdjust='spacingAndGlyphs'>Recurrence: repeated/periodic</text>
+<text x='313.36' y='394.77' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='201.38px' lengthAdjust='spacingAndGlyphs'>Expected intensity: low-to-moderate/variable</text>
+<text x='313.36' y='405.59' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='199.70px' lengthAdjust='spacingAndGlyphs'>Expected severity: surface to mixed severity</text>
+<text x='313.36' y='416.40' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='235.48px' lengthAdjust='spacingAndGlyphs'>Containment context: spring green-up/fuel moisture;</text>
+<text x='313.36' y='427.22' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='71.12px' lengthAdjust='spacingAndGlyphs'>seasonal timing</text>
+<text x='313.36' y='500.94' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='208.58px' lengthAdjust='spacingAndGlyphs'>Primary ecological effect: browse renewal and</text>
+<text x='313.36' y='511.75' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='198.53px' lengthAdjust='spacingAndGlyphs'>creation of predictable moose-use openings</text>
+<text x='313.36' y='522.57' style='font-size: 10.24px;fill: #2D2926; font-family: "Arial";' textLength='190.58px' lengthAdjust='spacingAndGlyphs'>Temporal horizon: multi-year/successional</text>
+<rect x='729.53' y='145.62' width='205.50' height='67.83' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #E4E8E0;' />
+<rect x='729.53' y='228.20' width='205.50' height='66.35' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #E4E8E0;' />
+<rect x='729.53' y='309.30' width='205.50' height='126.81' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #E4E8E0;' />
+<rect x='729.53' y='445.69' width='205.50' height='96.58' style='stroke-width: 0.83; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #E7DDD5;' />
+<text x='741.16' y='164.85' style='font-size: 10.39px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='87.61px' lengthAdjust='spacingAndGlyphs'>MODELING ROLE</text>
+<text x='741.16' y='247.42' style='font-size: 10.39px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='165.84px' lengthAdjust='spacingAndGlyphs'>MODEL-USE RECOMMENDATION</text>
+<text x='741.16' y='328.52' style='font-size: 10.39px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='130.48px' lengthAdjust='spacingAndGlyphs'>CONFIDENCE AND LIMITS</text>
+<text x='741.16' y='464.92' style='font-size: 10.39px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='106.06px' lengthAdjust='spacingAndGlyphs'>MODELING CAUTION</text>
+<text x='741.16' y='188.04' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='115.56px' lengthAdjust='spacingAndGlyphs'>ignition/practice parameter</text>
+<text x='741.16' y='270.61' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='121.06px' lengthAdjust='spacingAndGlyphs'>scenario-building qualitative</text>
+<text x='741.16' y='280.74' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='19.62px' lengthAdjust='spacingAndGlyphs'>prior</text>
+<text x='741.16' y='351.71' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='100.86px' lengthAdjust='spacingAndGlyphs'>Model confidence: high</text>
+<text x='741.16' y='361.84' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='145.73px' lengthAdjust='spacingAndGlyphs'>Transferability: medium; culturally</text>
+<text x='741.16' y='371.97' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='145.56px' lengthAdjust='spacingAndGlyphs'>specific meanings require caution</text>
+<text x='741.16' y='382.10' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='124.84px' lengthAdjust='spacingAndGlyphs'>Source independence: partly</text>
+<text x='741.16' y='392.23' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='146.69px' lengthAdjust='spacingAndGlyphs'>independent overlapping lineages</text>
+<text x='741.16' y='402.36' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='99.77px' lengthAdjust='spacingAndGlyphs'>Review priority: routine</text>
+<text x='741.16' y='488.11' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='143.34px' lengthAdjust='spacingAndGlyphs'>Ontology terms are analytical; do</text>
+<text x='741.16' y='498.24' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='149.84px' lengthAdjust='spacingAndGlyphs'>not treat as direct emic statements</text>
+<text x='741.16' y='508.37' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='146.62px' lengthAdjust='spacingAndGlyphs'>without source/community review.</text>
+<text x='741.16' y='518.50' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='108.47px' lengthAdjust='spacingAndGlyphs'>Qualitative prior only; not</text>
+<text x='741.16' y='528.63' style='font-size: 9.82px;fill: #2D2926; font-family: "Arial";' textLength='129.22px' lengthAdjust='spacingAndGlyphs'>operational burning guidance.</text>
+<text x='9.96' y='40.24' style='font-size: 11.50px;fill: #2D2926; font-family: "Arial";' textLength='692.97px' lengthAdjust='spacingAndGlyphs'>Worked example showing how CFU-007 is represented in the Modeling Crosswalk. All record values shown are read from the workbook.</text>
+<text x='9.96' y='23.92' style='font-size: 19.50px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='481.12px' lengthAdjust='spacingAndGlyphs'>From canonical fire use to model-facing descriptors</text>
+<text x='9.96' y='609.13' style='font-size: 10.00px;fill: #2D2926; font-family: "Arial";' textLength='829.94px' lengthAdjust='spacingAndGlyphs'>The Modeling Crosswalk provides qualitative, model-informing descriptors. Underscores are replaced with spaces and long values are wrapped; no analytical values are added or rewritten.</text>
+</g>
+</g>
+</svg>

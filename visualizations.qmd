@@ -1,36 +1,59 @@
 ---
 title: "Interactive Data Visualizations"
+page-layout: full
 toc: false
 ---
 
-These interactive figures were developed in R to communicate the
-structure, evidence relationships, and model-facing characteristics of
-the ethnographic fire-use dataset.
+These interactive figures were developed in R to communicate the structure, evidence relationships, and model-facing characteristics of the ethnographic fire-use dataset. Select a preview to open the complete interactive visualization.
 
-## Evidence traceability circle pack
+:::: {.visualization-grid}
 
-This visualization communicates relationships among evidence records,
-comparative fire classes, and canonical fire uses.
+::: {.visualization-card}
+
+## Evidence Traceability Circle Pack
+
+[![](images/visualizations/circlepack-preview.png){.visualization-preview fig-alt="Preview of the interactive evidence traceability circle pack"}](viz-circlepack.qmd)
+
+This visualization communicates relationships among evidence records, comparative fire classes, canonical fire uses, provisional uses, and supporting atomic claims.
 
 [Explore the circle pack](viz-circlepack.qmd){.btn .btn-primary}
 
-## Comparative class and ontology heatmap
+:::
 
-This heatmap compares comparative fire classes across selected ontology
-and model-facing variables.
+::: {.visualization-card}
+
+## Comparative Class and Ontology Heatmap
+
+[![](images/visualizations/comparative-ontology-preview.png){.visualization-preview fig-alt="Preview of the interactive comparative fire class and ontology heatmap"}](viz-ontology-heatmap.qmd)
+
+This heatmap compares comparative fire classes across selected ontology and model-facing variables, with alternate views for primary and secondary associations.
 
 [Explore the ontology heatmap](viz-ontology-heatmap.qmd){.btn .btn-primary}
 
-## Spatial-form treemap
+:::
 
-This treemap communicates how spatial forms are represented across the
-structured fire-use categories.
+::: {.visualization-card}
+
+## Spatial-Form Treemap
+
+[![](images/visualizations/spatial-form-treemap-preview.png){.visualization-preview fig-alt="Preview of the interactive canonical fire-use spatial-form treemap"}](viz-spatial-treemap.qmd)
+
+This treemap communicates how canonical fire uses are distributed among normalized spatial forms and related categories.
 
 [Explore the spatial-form treemap](viz-spatial-treemap.qmd){.btn .btn-primary}
 
-## Timing and spatial-form heatmap
+:::
 
-This heatmap explores relationships between documented timing regimes
-and spatial forms.
+::: {.visualization-card}
+
+## Timing and Spatial-Form Heatmap
+
+[![](images/visualizations/timing-spatial-preview.png){.visualization-preview fig-alt="Preview of the interactive timing category and spatial-form heatmap"}](viz-timing-spatial.qmd)
+
+This heatmap explores relationships between documented timing regimes and the spatial forms of canonical fire uses.
 
 [Explore the timing heatmap](viz-timing-spatial.qmd){.btn .btn-primary}
+
+:::
+
+::::
