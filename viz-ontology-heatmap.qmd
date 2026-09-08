@@ -4,11 +4,9 @@ page-layout: full
 toc: false
 ---
 
-This interactive heatmap compares the dataset's comparative fire
-classes across selected ontology and model-facing variables.
+This interactive heatmap shows how canonical fire uses are associated with comparative fire classes and ontology terms. Each cell shows the number of canonical fire uses associated with a particular class and term.
 
-Hover over individual cells to inspect the corresponding class,
-variable, and recorded relationship.
+Use the controls to switch between primary class assignments and combined primary and secondary associations. Hover over a cell to inspect the linked uses. Because a canonical fire use can have more than one ontology term, it may contribute to several columns.
 
 [Open the figure in a separate browser tab](interactive/comparative-ontology-heatmap.html){target="_blank"}
 
@@ -19,3 +17,7 @@ variable, and recorded relationship.
   loading="lazy"
   scrolling="no">
 </iframe>
+
+**My role:** I prepared the class and ontology associations for plotting, created the heatmap in R, and refined its color scale, labels, tooltips, and class-selection controls.
+
+**Skills demonstrated:** Categorical data preparation, heatmap design, interactive controls, and R-based visualization.

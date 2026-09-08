@@ -1,23 +1,27 @@
 ---
 title: "Archaeological Illustration"
 page-layout: full
+toc: false
 ---
 
 ## Kitsissut: Lethbridge Hut 1
 
-This technical archaeological illustration documents the form and recorded features of Lethbridge Hut 1 at Kitsissut.
+This archaeological illustration documents the visible form and features of Lethbridge Hut 1 at Kitsissut based on aerial imagery.
 
-[![](images/illustrations/lethbridge-hut-1-final.png){.static-preview .illustration-preview fig-alt="Completed technical archaeological illustration of Lethbridge Hut 1 at Kitsissut"}](images/illustrations/lethbridge-hut-1-final.png){target="_blank"}
+[![](images/illustrations/lethbridge-hut-1-final.png){.static-preview .illustration-preview fig-alt="Completed archaeological illustration of Lethbridge Hut 1 at Kitsissut, based on aerial imagery"}](images/illustrations/lethbridge-hut-1-final.png){target="_blank"}
 
 ::: {.portfolio-actions}
+
 [Open full-size completed illustration](images/illustrations/lethbridge-hut-1-final.png){.btn .btn-primary target="_blank"}
+
 :::
 
-**My role:** I converted supplied archaeological feature information into a finished vector illustration in Adobe Illustrator.
+**My role:** I used aerial imagery as a reference to draw the archaeological feature in Adobe Illustrator and produce a clear, finished vector illustration.
 
-**Skills demonstrated:** Archaeological interpretation, precise vector linework, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality graphics.
+**Skills demonstrated:** Adobe Illustrator, interpretation of aerial imagery, precise vector drawing, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality archaeological graphics.
 
-**Source and context:** Produced from archaeological plan data supplied for the Kitsissut research project.
+**Source and context:** Produced from aerial imagery supplied as reference material for documenting archaeological features at Kitsissut.
+
 <details class="process-version">
 <summary>View an earlier working version</summary>
 <p>
@@ -28,23 +32,27 @@ Open earlier working version (PDF)
 </a>
 </p>
 </details>
+
 ---
 
 ## Kitsissut: Tent Ring 24
 
-This technical archaeological illustration documents the layout and recorded features of Tent Ring 24 at Kitsissut.
+This archaeological illustration documents the layout and visible features of Tent Ring 24 at Kitsissut based on aerial imagery.
 
-[![](images/illustrations/tent-ring-24-final.png){.static-preview .illustration-preview fig-alt="Completed technical archaeological illustration of Tent Ring 24 at Kitsissut"}](images/illustrations/tent-ring-24-final.png){target="_blank"}
+[![](images/illustrations/tent-ring-24-final.png){.static-preview .illustration-preview fig-alt="Completed archaeological illustration of Tent Ring 24 at Kitsissut, based on aerial imagery"}](images/illustrations/tent-ring-24-final.png){target="_blank"}
 
 ::: {.portfolio-actions}
+
 [Open full-size completed illustration](images/illustrations/tent-ring-24-final.png){.btn .btn-primary target="_blank"}
+
 :::
 
-**My role:** I converted supplied archaeological feature information into a finished vector illustration in Adobe Illustrator.
+**My role:** I used aerial imagery as a reference to draw the archaeological feature in Adobe Illustrator and produce a clear, finished vector illustration.
 
-**Skills demonstrated:** Archaeological interpretation, precise vector linework, feature differentiation, visual hierarchy, labeling, and preparation of publication-quality graphics.
+**Skills demonstrated:** Adobe Illustrator, interpretation of aerial imagery, precise vector drawing, feature differentiation, visual hierarchy, and preparation of publication-quality archaeological graphics.
 
-**Source and context:** Produced from archaeological plan data supplied for the Kitsissut research project.
+**Source and context:** Produced from aerial imagery supplied as reference material for documenting archaeological features at Kitsissut.
+
 <details class="process-version">
 <summary>View an earlier working version</summary>
 <p>

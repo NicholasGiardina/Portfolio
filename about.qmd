@@ -1,9 +1,20 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site
+I recently graduated with distinction from the University of Calgary, earning a Bachelor of Science with a major in Archaeology. I currently work as an Anthropology and Archaeology Research Assistant at the University of Calgary.
 
-```{r}
-1 + 1
-```
+My research assistant work has involved developing structured datasets from ethnographic literature, creating interactive data visualizations in R, producing archaeological and ethnographic maps in QGIS, and illustrating archaeological features in Adobe Illustrator. Through this work, I have gained experience combining archaeological and anthropological research with dataset development, spatial analysis, and visual communication.
+
+My archaeological training also includes field school experience in survey, shovel testing, GPS data collection, site identification, recording, and mapping. I am interested in continuing to develop these skills through archaeological research and cultural resource management.
+
+This portfolio brings together selected examples of my research assistant work, including an ethnographic fire-use dataset, interactive visualizations, GIS mapping, and archaeological illustration.
+
+I built this portfolio website with Quarto, organizing and integrating static images, interactive HTML visualizations, project documentation, and downloadable outputs into a single web-based portfolio.
+
+## Contact
+
+Email: [nicholasgiardina11@gmail.com](mailto:nicholasgiardina11@gmail.com)
+
+Phone: [+1 587-998-7619](tel:+15879987619)

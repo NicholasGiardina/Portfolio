@@ -4,11 +4,9 @@ page-layout: full
 toc: false
 ---
 
-This interactive circle pack communicates relationships among evidence
-records, comparative fire classes, and canonical fire uses.
+This interactive circle pack links comparative fire classes with canonical fire uses, provisional fire-use entries, and supporting atomic claims. The nested circles allow the evidence behind a canonical fire use to be explored through these connected records.
 
-Hover over the circles to inspect individual categories. The figure is
-best viewed on a desktop or laptop.
+Click a comparative class, canonical fire use, or provisional entry to zoom into that part of the hierarchy. Hover over circles to read the record details and, for atomic claims, the linked source information. The figure is best viewed on a desktop or laptop.
 
 [Open the figure in a separate browser tab](interactive/evidence-traceability-circlepack.html){target="_blank"}
 
@@ -19,3 +17,7 @@ best viewed on a desktop or laptop.
   loading="lazy"
   scrolling="no">
 </iframe>
+
+**My role:** I used the dataset's linked records to build this visualization in R and refined the labels and tooltips to make its evidence relationships easier to explore.
+
+**Skills demonstrated:** Hierarchical data preparation, evidence traceability, label and tooltip design, and interactive visualization in R.

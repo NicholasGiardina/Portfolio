@@ -4,7 +4,7 @@ page-layout: full
 toc: false
 ---
 
-These interactive figures were developed in R to communicate the structure, evidence relationships, and model-facing characteristics of the ethnographic fire-use dataset. Select a preview to open the complete interactive visualization.
+I created these interactive visualizations in R to explore the organization, evidence relationships, and qualitative descriptors of the ethnographic fire-use dataset. Select a preview to open the full interactive visualization.
 
 :::: {.visualization-grid}
 
@@ -14,7 +14,7 @@ These interactive figures were developed in R to communicate the structure, evid
 
 [![](images/visualizations/circlepack-preview.png){.visualization-preview .circlepack-thumbnail fig-alt="Preview of the interactive evidence traceability circle pack"}](viz-circlepack.qmd)
 
-This visualization communicates relationships among evidence records, comparative fire classes, canonical fire uses, provisional uses, and supporting atomic claims.
+Explore the connections among comparative fire classes, canonical fire uses, provisional fire-use entries, and supporting atomic claims. Click a class or use to zoom into its records, and hover over a circle to view its details.
 
 [Explore the circle pack](viz-circlepack.qmd){.btn .btn-primary}
 
@@ -26,7 +26,7 @@ This visualization communicates relationships among evidence records, comparativ
 
 [![](images/visualizations/comparative-ontology-preview.png){.visualization-preview fig-alt="Preview of the interactive comparative fire class and ontology heatmap"}](viz-ontology-heatmap.qmd)
 
-This heatmap compares comparative fire classes across selected ontology and model-facing variables, with alternate views for primary and secondary associations.
+Compare how canonical fire uses are associated with comparative fire classes and ontology terms. Switch between primary class assignments and combined primary and secondary associations, and hover over cells to inspect the linked uses.
 
 [Explore the ontology heatmap](viz-ontology-heatmap.qmd){.btn .btn-primary}
 
@@ -38,7 +38,7 @@ This heatmap compares comparative fire classes across selected ontology and mode
 
 [![](images/visualizations/spatial-form-preview.png){.visualization-preview fig-alt="Preview of the interactive canonical fire-use spatial-form treemap"}](viz-spatial-treemap.qmd)
 
-This treemap communicates how canonical fire uses are distributed among normalized spatial forms and related categories.
+Explore canonical fire uses grouped by spatial form, including camp and settlement areas, mobility corridors, and wetland margins. Click a spatial-form group to focus on its uses, and hover over a tile to read more.
 
 [Explore the spatial-form treemap](viz-spatial-treemap.qmd){.btn .btn-primary}
 
@@ -50,7 +50,7 @@ This treemap communicates how canonical fire uses are distributed among normaliz
 
 [![](images/visualizations/timing-spatial-preview.png){.visualization-preview fig-alt="Preview of the interactive timing category and spatial-form heatmap"}](viz-timing-spatial.qmd)
 
-This heatmap explores relationships between documented timing regimes and the spatial forms of canonical fire uses.
+Explore the relationships between timing categories and the spatial forms of canonical fire uses. The heatmap groups timing into season-specific, multi-season, and other or unspecified categories. Hover over a cell to inspect the linked uses.
 
 [Explore the timing heatmap](viz-timing-spatial.qmd){.btn .btn-primary}
 

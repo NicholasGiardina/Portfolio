@@ -1,11 +1,12 @@
 ---
 title: "Mapping"
 page-layout: full
+toc: false
 ---
 
 ## Regional Fire-Use Research Map
 
-This regional map situates the communities, ethnographic source locations, contextual places, waterways, and administrative boundaries relevant to the northern Alberta fire-use research.
+This map shows the communities and places associated with the northern Alberta fire-use research alongside rivers, lakes, terrain, present-day reserve boundaries, and Wood Buffalo National Park. Point symbols distinguish primary ethnographic source locations from places included for broader geographic context.
 
 [![](images/maps/regional-fire-map.png){.static-preview .map-preview fig-alt="Regional map showing locations and geographic context associated with the northern Alberta Indigenous fire-use research"}](images/maps/regional-fire-map.png){target="_blank"}
 
@@ -25,17 +26,15 @@ This regional map situates the communities, ethnographic source locations, conte
 
 :::
 
-**My role:** I designed and produced this map in QGIS to communicate the geographic context of the ethnographic fire-use dataset.
+**My role:** I created this map in QGIS using location data compiled by Dr. Matthew Walls and existing boundary, waterway, and elevation datasets. I organized and styled the layers, adjusted labels and the legend, and prepared the print layout for PNG and PDF export.
 
-**Skills demonstrated:** Coordinate reference system management, spatial data organization, cartographic hierarchy, symbology, labeling, print-layout design, and export preparation.
-
-**Design approach:** Places directly associated with the source material are visually distinguished from broader contextual locations and boundaries. The map balances regional orientation with the visibility of communities, waterways, and the Wood Buffalo National Park context.
+**Skills demonstrated:** QGIS, coordinate reference systems, vector and raster data integration, symbology, labeling, and print layout design.
 
 ---
 
 ## Meander River Close-Up Map
 
-This close-up map provides more detailed geographic context for Meander River and the surrounding landscape discussed in the research sources.
+This map provides a closer view of Meander River, one of the dataset's primary ethnographic source locations. Satellite imagery shows the surrounding landscape alongside the reserve boundary and the courses of the Hay and Meander rivers.
 
 [![](images/maps/meander-river-close-up-map.png){.static-preview .map-preview fig-alt="Close-up map of Meander River and its surrounding geographic context"}](images/maps/meander-river-close-up-map.png){target="_blank"}
 
@@ -55,8 +54,6 @@ This close-up map provides more detailed geographic context for Meander River an
 
 :::
 
-**My role:** I designed this close-up map in QGIS to complement the regional map with a more localized view.
+**My role:** I designed this map in QGIS by combining satellite imagery with reserve boundary, river, and location layers. I adjusted the map extent, layer styling, labels, and legend for the local view and prepared the print layout for PNG and PDF export.
 
-**Skills demonstrated:** Multi-scale cartographic design, basemap integration, hydrology display, label placement, visual hierarchy, and print-layout production.
-
-**Design approach:** The map retains enough surrounding landscape context to orient the viewer while focusing attention on Meander River and the locally relevant features.
+**Skills demonstrated:** QGIS, integration of imagery and vector data, map symbology, label placement, and print layout design.

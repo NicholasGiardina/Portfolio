@@ -1,44 +1,35 @@
 ---
 title: "Nicholas Giardina"
-subtitle: "Archaeology, spatial analysis, data production, and visual communication"
+subtitle: "Archaeology, anthropology, spatial analysis, and visual communication"
 toc: false
 ---
 
-I am an archaeology graduate and research assistant working at the
-intersection of archaeological research, structured data, spatial
-analysis, and visual communication.
+I recently graduated from the University of Calgary with a Bachelor of Science in Archaeology and currently work as an Anthropology and Archaeology Research Assistant at the University of Calgary.
 
-This portfolio presents selected work in ethnographic data production,
-interactive visualization in R, archaeological mapping in QGIS, and
-archaeological illustration in Adobe Illustrator.
+My research assistant work has involved developing structured datasets from ethnographic literature, creating interactive visualizations in R, producing archaeological and ethnographic maps in QGIS, and illustrating archaeological features in Adobe Illustrator. This portfolio presents selected examples of that work.
 
 ## Selected work
 
 ### Ethnographic Fire-Use Dataset
 
-A structured and model-oriented dataset developed from ethnographic
-literature concerning Indigenous fire practices in northern Alberta.
+A structured dataset developed from ethnographic literature documenting Indigenous fire practices in northern Alberta, with information organized for comparative analysis and ecological modelling.
 
 [View the dataset project](dataset.qmd)
 
 ### Interactive Data Visualizations
 
-Interactive figures developed in R to communicate the dataset's
-classification, evidence relationships, spatial forms, and timing
-patterns.
+Interactive figures developed in R to explore and communicate patterns within the fire-use dataset, including its classification structure, evidence relationships, spatial forms, and timing.
 
 [View the interactive visualizations](visualizations.qmd)
 
 ### Archaeological Mapping
 
-Regional and close-up maps created in QGIS to communicate source
-locations, cultural landscapes, and archaeological features.
+Regional and close-up maps created in QGIS to communicate the geographic context of ethnographic and archaeological research.
 
 [View the mapping work](maps.qmd)
 
 ### Archaeological Illustration
 
-Vector illustrations of archaeological sites and structural features
-in Greenland, created from field documentation in Adobe Illustrator.
+Vector illustrations of archaeological structures and features at Kitsissut, Greenland, created in Adobe Illustrator using aerial imagery as reference material.
 
 [View the illustrations](illustrations.qmd)

@@ -1,55 +1,70 @@
 ---
 title: "Ethnographic Fire-Use Dataset"
 page-layout: full
+toc: false
 ---
 
 ## Project overview
 
-This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable, and model-oriented dataset.
+This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable dataset designed to inform ecological modeling while preserving links to source evidence and context.
 
 ## My role
 
-- Reviewed and structured ethnographic source material
-- Developed source units and evidence-based claims
-- Applied controlled vocabularies
-- Connected claims to fire-use entries and comparative categories
-- Prepared model-facing variables
-- Conducted quality assurance and public-data cleaning
-- Created documentation and visualizations
+Dr. Matthew Walls selected the source material for the project and helped lay out the initial workbook structure. I then processed those sources through the dataset-production workflow and developed, expanded, and revised the dataset across all of its versions.
+
+My work included:
+
+- Processing the selected ethnographic sources through the structured extraction workflow
+- Reviewing and organizing source material into source units
+- Extracting, correcting, and validating atomic claims
+- Organizing related claims into claim clusters and provisional fire-use entries
+- Reconciling related provisional entries into canonical fire uses
+- Expanding and refining relationships among the workbook's tables
+- Developing and applying stable identifiers and controlled vocabularies
+- Connecting canonical fire uses with comparative classes, ontology terms, evidence lineages, and model-facing fields
+- Conducting data cleaning, link validation, consistency checking, and quality assurance
+- Developing the documentation and preparing the current Version 2.0 release
+- Creating static and interactive visualizations in R
+
+Throughout the creation and revision of the dataset, I used LLM assistance for structured rereading, candidate claim extraction, clustering, reconciliation, terminology normalization, and drafting. I reviewed, corrected, and validated the resulting records and determined how the extracted evidence was organized and linked within the dataset. The LLM was used as a research tool and was not treated as a source of evidence.
 
 ## Dataset structure
 
-\[Add a concise explanation and a selected image or diagram here.\]
+The dataset is organized as an Excel workbook with linked tables. Stable identifiers connect canonical fire uses to their supporting evidence, comparative categories, and model-facing descriptors, allowing readers to trace the connections between source material and the resulting records.
 
-## Database Design and Research Workflow
+## Dataset Structure and Research Workflow
 
-This figure summarizes how source material was transformed into a structured and reviewable database. It distinguishes source material, LLM-assisted processing, human supervision, and resulting database outputs. The second panel shows the relationships and purposes of the Version 2.0 workbook tables.
+This figure summarizes the LLM-assisted workflow I used to create and refine the dataset across its versions. It also shows the organization and purpose of the tables in the current Version 2.0 workbook.
 
 ::: {.column-screen-inset}
 
-[![](images/figures/fire-database-workflow.svg){.static-preview .research-figure-preview fig-alt="Two-panel diagram showing the human-supervised and LLM-assisted development workflow and table structure of the Version 2.0 fire-use database"}](images/figures/fire-database-workflow.svg){target="_blank"}
+[![](images/figures/fire-database-workflow.svg){.static-preview .research-figure-preview fig-alt="Two-panel diagram showing the human-supervised and LLM-assisted dataset development workflow and the Version 2.0 workbook structure"}](images/figures/fire-database-workflow.svg){target="_blank"}
 
 :::
 
 ::: {.figure-note}
-**Dataset:** Fire-use database Version 2.0, developed by Matthew Walls and Nicholas Giardina. **Figure:** Nicholas Giardina.
+
+**Dataset:** Fire-use database Version 2.0, developed by Nicholas Giardina. **Figure:** Nicholas Giardina.
+
 :::
 
 ::: {.portfolio-actions}
+
 [Open full-size figure](images/figures/fire-database-workflow.svg){.btn .btn-primary target="_blank"}
 
 [Download PDF](files/figures/fire-database-workflow.pdf){.btn .btn-outline-secondary target="_blank"}
+
 :::
 
-**My role:** I helped develop, clean, and validate the relational database and produced this figure in R to communicate its workflow and table structure.
+**My role:** I created this figure in R to document the workflow I used to develop the dataset and explain the relationships among its tables.
 
-**Skills demonstrated:** Relational data organization, evidence traceability, data quality control, responsible use of LLM-assisted methods, workflow documentation, and technical visualization.
+**Skills demonstrated:** Workflow documentation, research data structuring, evidence traceability, and R-based technical visualization.
 
 ---
 
 ## Model-Facing Data Architecture
 
-The Modeling Crosswalk translates 51 source-traceable canonical fire uses into qualitative descriptors that can support comparative research and responsible model development. The figure organizes those descriptors into practice, space and time, expected fire behaviour, ecological response, and evidence and reuse.
+The Modeling Crosswalk organizes 51 canonical fire uses into qualitative descriptors that can inform comparative research and ecological modeling. This figure groups those descriptors into practice, space and time, expected fire behaviour, ecological response, and evidence and reuse. It also shows the accompanying guidance about modeling roles, confidence, and limitations.
 
 ::: {.column-screen-inset}
 
@@ -58,24 +73,28 @@ The Modeling Crosswalk translates 51 source-traceable canonical fire uses into q
 :::
 
 ::: {.figure-note}
+
 **Source:** Fire-use database Version 2.0. **Figure:** Nicholas Giardina.
+
 :::
 
 ::: {.portfolio-actions}
+
 [Open full-size figure](images/figures/model-facing-architecture.svg){.btn .btn-primary target="_blank"}
 
 [Download PDF](files/figures/model-facing-architecture.pdf){.btn .btn-outline-secondary target="_blank"}
+
 :::
 
-**My role:** I helped structure and validate the model-facing variables and created this figure to explain how evidence-based cultural information is translated into cautious qualitative modeling descriptors.
+**My role:** I organized and reviewed the model-facing fields and created this figure in R to explain how canonical fire uses connect to qualitative descriptors and guidance for their use in modeling.
 
-**Skills demonstrated:** Data modeling, variable design, qualitative data transformation, research communication, visual hierarchy, and responsible model-use documentation.
+**Skills demonstrated:** Qualitative data organization, preparation of model-facing variables, data validation, technical documentation, and R-based visualization.
 
 ---
 
 ## Worked Crosswalk Example
 
-This worked example shows how one canonical fire-use record is represented in the Modeling Crosswalk. CFU-007 is supported by five sources, six source units, and 47 linked claims.
+This worked example shows how CFU-007, Moose-browse and hunting-site burning, is represented in the Modeling Crosswalk. It brings together source support, evidence strength, qualitative descriptors, and modeling limitations. The record is supported by five sources, six source units, and 47 linked claims.
 
 ::: {.column-screen-inset}
 
@@ -84,26 +103,38 @@ This worked example shows how one canonical fire-use record is represented in th
 :::
 
 ::: {.figure-note}
+
 **Record:** CFU-007, Moose-browse and hunting-site burning. **Source:** Fire-use database Version 2.0. **Figure:** Nicholas Giardina.
+
 :::
 
 ::: {.portfolio-actions}
+
 [Open full-size figure](images/figures/model-facing-example.svg){.btn .btn-primary target="_blank"}
 
 [Download PDF](files/figures/model-facing-example.pdf){.btn .btn-outline-secondary target="_blank"}
+
 :::
 
-This example demonstrates how the database retains source support, evidence strength, and cautions while making selected information usable for qualitative modeling scenarios.
+**My role:** I created this figure in R using the selected record and its linked evidence to illustrate how the Modeling Crosswalk is organized.
+
+**Skills demonstrated:** Evidence traceability, qualitative data presentation, research communication, and R-based visualization.
 
 ## Research and data challenges
 
-\[Discuss evidence traceability, uncertainty, interpretation, cultural context, and the creation of the public-cleaned version here.\]
+The project draws on a limited set of ethnographic sources, many of which report interviews and observations. The same interview, statement, or earlier account may appear in more than one source, so multiple references do not necessarily represent independent evidence.
+
+I retained source links and documented shared evidence lineages where they could be identified so that overlapping evidence could be reviewed.
+
+A further challenge was organizing narrative descriptions into consistent categories while preserving differences in context, timing, and spatial form. The dataset retains source references, contextual information, and uncertainty notes alongside its standardized fields. An unreported practice should not automatically be treated as a practice that did not occur.
 
 ## Skills demonstrated
 
-- Research data production
-- Relational data organization
-- Controlled vocabulary development
-- Evidence traceability
-- Data quality assurance
-- Research documentation
+- Ethnographic evidence extraction and review
+- Research data structuring
+- Evidence traceability and provenance documentation
+- Controlled vocabularies and stable identifiers
+- Data cleaning and validation of LLM-assisted outputs
+- Preparation of qualitative model-facing variables
+- Static and interactive visualization in R
+- Technical documentation and research communication

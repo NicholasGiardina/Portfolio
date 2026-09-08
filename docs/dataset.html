@@ -151,44 +151,51 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="project-overview" class="level2">
 <h2 data-anchor-id="project-overview">Project overview</h2>
-<p>This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable, and model-oriented dataset.</p>
+<p>This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable dataset designed to inform ecological modeling while preserving links to source evidence and context.</p>
 </section>
 <section id="my-role" class="level2">
 <h2 data-anchor-id="my-role">My role</h2>
+<p>Dr.&nbsp;Matthew Walls selected the source material for the project and helped lay out the initial workbook structure. I then processed those sources through the dataset-production workflow and developed, expanded, and revised the dataset across all of its versions.</p>
+<p>My work included:</p>
 <ul>
-<li>Reviewed and structured ethnographic source material</li>
-<li>Developed source units and evidence-based claims</li>
-<li>Applied controlled vocabularies</li>
-<li>Connected claims to fire-use entries and comparative categories</li>
-<li>Prepared model-facing variables</li>
-<li>Conducted quality assurance and public-data cleaning</li>
-<li>Created documentation and visualizations</li>
+<li>Processing the selected ethnographic sources through the structured extraction workflow</li>
+<li>Reviewing and organizing source material into source units</li>
+<li>Extracting, correcting, and validating atomic claims</li>
+<li>Organizing related claims into claim clusters and provisional fire-use entries</li>
+<li>Reconciling related provisional entries into canonical fire uses</li>
+<li>Expanding and refining relationships among the workbook’s tables</li>
+<li>Developing and applying stable identifiers and controlled vocabularies</li>
+<li>Connecting canonical fire uses with comparative classes, ontology terms, evidence lineages, and model-facing fields</li>
+<li>Conducting data cleaning, link validation, consistency checking, and quality assurance</li>
+<li>Developing the documentation and preparing the current Version 2.0 release</li>
+<li>Creating static and interactive visualizations in R</li>
 </ul>
+<p>Throughout the creation and revision of the dataset, I used LLM assistance for structured rereading, candidate claim extraction, clustering, reconciliation, terminology normalization, and drafting. I reviewed, corrected, and validated the resulting records and determined how the extracted evidence was organized and linked within the dataset. The LLM was used as a research tool and was not treated as a source of evidence.</p>
 </section>
 <section id="dataset-structure" class="level2">
 <h2 data-anchor-id="dataset-structure">Dataset structure</h2>
-<p>[Add a concise explanation and a selected image or diagram here.]</p>
+<p>The dataset is organized as an Excel workbook with linked tables. Stable identifiers connect canonical fire uses to their supporting evidence, comparative categories, and model-facing descriptors, allowing readers to trace the connections between source material and the resulting records.</p>
 </section>
-<section id="database-design-and-research-workflow" class="level2 page-columns page-full">
-<h2 data-anchor-id="database-design-and-research-workflow">Database Design and Research Workflow</h2>
-<p>This figure summarizes how source material was transformed into a structured and reviewable database. It distinguishes source material, LLM-assisted processing, human supervision, and resulting database outputs. The second panel shows the relationships and purposes of the Version 2.0 workbook tables.</p>
+<section id="dataset-structure-and-research-workflow" class="level2 page-columns page-full">
+<h2 data-anchor-id="dataset-structure-and-research-workflow">Dataset Structure and Research Workflow</h2>
+<p>This figure summarizes the LLM-assisted workflow I used to create and refine the dataset across its versions. It also shows the organization and purpose of the tables in the current Version 2.0 workbook.</p>
 <div class="column-screen-inset">
-<p><a href="images/figures/fire-database-workflow.svg" target="_blank"><img src="images/figures/fire-database-workflow.svg" class="static-preview research-figure-preview img-fluid" alt="Two-panel diagram showing the human-supervised and LLM-assisted development workflow and table structure of the Version 2.0 fire-use database"></a></p>
+<p><a href="images/figures/fire-database-workflow.svg" target="_blank"><img src="images/figures/fire-database-workflow.svg" class="static-preview research-figure-preview img-fluid" alt="Two-panel diagram showing the human-supervised and LLM-assisted dataset development workflow and the Version 2.0 workbook structure"></a></p>
 </div>
 <div class="figure-note">
-<p><strong>Dataset:</strong> Fire-use database Version 2.0, developed by Matthew Walls and Nicholas Giardina. <strong>Figure:</strong> Nicholas Giardina.</p>
+<p><strong>Dataset:</strong> Fire-use database Version 2.0, developed by Nicholas Giardina. <strong>Figure:</strong> Nicholas Giardina.</p>
 </div>
 <div class="portfolio-actions">
 <p><a href="images/figures/fire-database-workflow.svg" class="btn btn-primary" target="_blank">Open full-size figure</a></p>
 <p><a href="files/figures/fire-database-workflow.pdf" class="btn btn-outline-secondary" target="_blank">Download PDF</a></p>
 </div>
-<p><strong>My role:</strong> I helped develop, clean, and validate the relational database and produced this figure in R to communicate its workflow and table structure.</p>
-<p><strong>Skills demonstrated:</strong> Relational data organization, evidence traceability, data quality control, responsible use of LLM-assisted methods, workflow documentation, and technical visualization.</p>
+<p><strong>My role:</strong> I created this figure in R to document the workflow I used to develop the dataset and explain the relationships among its tables.</p>
+<p><strong>Skills demonstrated:</strong> Workflow documentation, research data structuring, evidence traceability, and R-based technical visualization.</p>
 <hr>
 </section>
 <section id="model-facing-data-architecture" class="level2 page-columns page-full">
 <h2 data-anchor-id="model-facing-data-architecture">Model-Facing Data Architecture</h2>
-<p>The Modeling Crosswalk translates 51 source-traceable canonical fire uses into qualitative descriptors that can support comparative research and responsible model development. The figure organizes those descriptors into practice, space and time, expected fire behaviour, ecological response, and evidence and reuse.</p>
+<p>The Modeling Crosswalk organizes 51 canonical fire uses into qualitative descriptors that can inform comparative research and ecological modeling. This figure groups those descriptors into practice, space and time, expected fire behaviour, ecological response, and evidence and reuse. It also shows the accompanying guidance about modeling roles, confidence, and limitations.</p>
 <div class="column-screen-inset">
 <p><a href="images/figures/model-facing-architecture.svg" target="_blank"><img src="images/figures/model-facing-architecture.svg" class="static-preview research-figure-preview img-fluid" alt="Diagram showing how 51 canonical fire uses connect through the Modeling Crosswalk to model-use guidance"></a></p>
 </div>
@@ -199,13 +206,13 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="images/figures/model-facing-architecture.svg" class="btn btn-primary" target="_blank">Open full-size figure</a></p>
 <p><a href="files/figures/model-facing-architecture.pdf" class="btn btn-outline-secondary" target="_blank">Download PDF</a></p>
 </div>
-<p><strong>My role:</strong> I helped structure and validate the model-facing variables and created this figure to explain how evidence-based cultural information is translated into cautious qualitative modeling descriptors.</p>
-<p><strong>Skills demonstrated:</strong> Data modeling, variable design, qualitative data transformation, research communication, visual hierarchy, and responsible model-use documentation.</p>
+<p><strong>My role:</strong> I organized and reviewed the model-facing fields and created this figure in R to explain how canonical fire uses connect to qualitative descriptors and guidance for their use in modeling.</p>
+<p><strong>Skills demonstrated:</strong> Qualitative data organization, preparation of model-facing variables, data validation, technical documentation, and R-based visualization.</p>
 <hr>
 </section>
 <section id="worked-crosswalk-example" class="level2 page-columns page-full">
 <h2 data-anchor-id="worked-crosswalk-example">Worked Crosswalk Example</h2>
-<p>This worked example shows how one canonical fire-use record is represented in the Modeling Crosswalk. CFU-007 is supported by five sources, six source units, and 47 linked claims.</p>
+<p>This worked example shows how CFU-007, Moose-browse and hunting-site burning, is represented in the Modeling Crosswalk. It brings together source support, evidence strength, qualitative descriptors, and modeling limitations. The record is supported by five sources, six source units, and 47 linked claims.</p>
 <div class="column-screen-inset">
 <p><a href="images/figures/model-facing-example.svg" target="_blank"><img src="images/figures/model-facing-example.svg" class="static-preview research-figure-preview img-fluid" alt="Worked example showing how CFU-007 Moose-browse and hunting-site burning is represented using model-facing descriptors"></a></p>
 </div>
@@ -216,21 +223,26 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="images/figures/model-facing-example.svg" class="btn btn-primary" target="_blank">Open full-size figure</a></p>
 <p><a href="files/figures/model-facing-example.pdf" class="btn btn-outline-secondary" target="_blank">Download PDF</a></p>
 </div>
-<p>This example demonstrates how the database retains source support, evidence strength, and cautions while making selected information usable for qualitative modeling scenarios.</p>
+<p><strong>My role:</strong> I created this figure in R using the selected record and its linked evidence to illustrate how the Modeling Crosswalk is organized.</p>
+<p><strong>Skills demonstrated:</strong> Evidence traceability, qualitative data presentation, research communication, and R-based visualization.</p>
 </section>
 <section id="research-and-data-challenges" class="level2">
 <h2 data-anchor-id="research-and-data-challenges">Research and data challenges</h2>
-<p>[Discuss evidence traceability, uncertainty, interpretation, cultural context, and the creation of the public-cleaned version here.]</p>
+<p>The project draws on a limited set of ethnographic sources, many of which report interviews and observations. The same interview, statement, or earlier account may appear in more than one source, so multiple references do not necessarily represent independent evidence.</p>
+<p>I retained source links and documented shared evidence lineages where they could be identified so that overlapping evidence could be reviewed.</p>
+<p>A further challenge was organizing narrative descriptions into consistent categories while preserving differences in context, timing, and spatial form. The dataset retains source references, contextual information, and uncertainty notes alongside its standardized fields. An unreported practice should not automatically be treated as a practice that did not occur.</p>
 </section>
 <section id="skills-demonstrated" class="level2">
 <h2 data-anchor-id="skills-demonstrated">Skills demonstrated</h2>
 <ul>
-<li>Research data production</li>
-<li>Relational data organization</li>
-<li>Controlled vocabulary development</li>
-<li>Evidence traceability</li>
-<li>Data quality assurance</li>
-<li>Research documentation</li>
+<li>Ethnographic evidence extraction and review</li>
+<li>Research data structuring</li>
+<li>Evidence traceability and provenance documentation</li>
+<li>Controlled vocabularies and stable identifiers</li>
+<li>Data cleaning and validation of LLM-assisted outputs</li>
+<li>Preparation of qualitative model-facing variables</li>
+<li>Static and interactive visualization in R</li>
+<li>Technical documentation and research communication</li>
 </ul>
 
 
