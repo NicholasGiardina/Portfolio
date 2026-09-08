@@ -12,7 +12,7 @@ These interactive figures were developed in R to communicate the structure, evid
 
 ## Evidence Traceability Circle Pack
 
-[![](images/visualizations/circlepack-preview.png){.visualization-preview fig-alt="Preview of the interactive evidence traceability circle pack"}](viz-circlepack.qmd)
+[![](images/visualizations/circlepack-preview.png){.visualization-preview .circlepack-thumbnail fig-alt="Preview of the interactive evidence traceability circle pack"}](viz-circlepack.qmd)
 
 This visualization communicates relationships among evidence records, comparative fire classes, canonical fire uses, provisional uses, and supporting atomic claims.
 
@@ -36,7 +36,7 @@ This heatmap compares comparative fire classes across selected ontology and mode
 
 ## Spatial-Form Treemap
 
-[![](images/visualizations/spatial-form-treemap-preview.png){.visualization-preview fig-alt="Preview of the interactive canonical fire-use spatial-form treemap"}](viz-spatial-treemap.qmd)
+[![](images/visualizations/spatial-form-preview.png){.visualization-preview fig-alt="Preview of the interactive canonical fire-use spatial-form treemap"}](viz-spatial-treemap.qmd)
 
 This treemap communicates how canonical fire uses are distributed among normalized spatial forms and related categories.
 

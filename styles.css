@@ -62,15 +62,6 @@ a:hover {
   min-height: 1300px;
 }
 
-.btn-primary {
-  background-color: var(--portfolio-ember);
-  border-color: var(--portfolio-ember);
-}
-
-.btn-primary:hover {
-  background-color: #6f382b;
-  border-color: #6f382b;
-}
 .interactive-frame.ontology-frame {
   height: 850px;
   min-height: 850px;
@@ -87,6 +78,16 @@ a:hover {
 .interactive-frame.timing-frame {
   height: 660px;
   min-height: 660px;
+}
+
+.btn-primary {
+  background-color: var(--portfolio-ember);
+  border-color: var(--portfolio-ember);
+}
+
+.btn-primary:hover {
+  background-color: #6f382b;
+  border-color: #6f382b;
 }
 
 .static-preview {
@@ -133,14 +134,6 @@ img.static-preview.illustration-preview {
   margin: 0.75rem auto 1rem;
 }
 
-@media (max-width: 768px) {
-  img.static-preview.map-preview,
-  img.static-preview.illustration-preview {
-    width: 100%;
-    max-width: 100%;
-  }
-}
-
 img.static-preview.research-figure-preview {
   display: block;
   width: 100%;
@@ -156,6 +149,9 @@ img.static-preview.research-figure-preview {
   max-width: 1400px;
   margin: 0.35rem auto 1rem;
 }
+
+/* Visualization gallery */
+
 .visualization-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -183,21 +179,40 @@ img.static-preview.research-figure-preview {
   display: block;
   width: 100%;
   aspect-ratio: 16 / 10;
-  object-fit: cover;
-  object-position: top center;
+  object-fit: contain;
+  object-position: center;
+  box-sizing: border-box;
   background: white;
   border: 1px solid var(--portfolio-line);
   border-radius: 4px;
   margin-bottom: 0.75rem;
 }
 
+/* Ensure the complete circle pack remains visible. */
+
+.visualization-preview.circlepack-thumbnail {
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  object-position: center;
+}
+
+/* Keep buttons immediately below their descriptions. */
+
 .visualization-card > p:last-child {
-  margin-top: auto;
+  margin-top: 0.75rem;
   margin-bottom: 0;
 }
 
 @media (max-width: 850px) {
   .visualization-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  img.static-preview.map-preview,
+  img.static-preview.illustration-preview {
+    width: 100%;
+    max-width: 100%;
   }
 }
