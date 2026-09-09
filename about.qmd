@@ -13,6 +13,12 @@ This portfolio brings together selected examples of my research assistant work, 
 
 I built this portfolio website with Quarto, organizing and integrating static images, interactive HTML visualizations, project documentation, and downloadable outputs into a single web-based portfolio.
 
+## Resume
+
+A PDF copy of my current resume is available below.
+
+[Download resume (PDF)](files/resume/Nicholas_Giardina_Resume.pdf){.btn .btn-primary download="Nicholas_Giardina_Resume.pdf"}
+
 ## Contact
 
 Email: [nicholasgiardina11@gmail.com](mailto:nicholasgiardina11@gmail.com)

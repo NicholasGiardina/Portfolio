@@ -18,6 +18,6 @@ Use the controls to switch between primary class assignments and combined primar
   scrolling="no">
 </iframe>
 
-**My role:** I prepared the class and ontology associations for plotting, created the heatmap in R, and refined its color scale, labels, tooltips, and class-selection controls.
+**My Role:** I prepared the class and ontology associations for plotting, created the heatmap in R, and refined its colour scale, labels, tooltips, and class-selection controls.
 
-**Skills demonstrated:** Categorical data preparation, heatmap design, interactive controls, and R-based visualization.
+**Skills Demonstrated:** Categorical data preparation, heatmap design, interactive controls, and R-based visualization.

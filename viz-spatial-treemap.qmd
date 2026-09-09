@@ -22,6 +22,6 @@ Click a spatial-form group to focus on its uses. Use the path bar above the tile
 
 :::
 
-**My role:** I grouped the canonical fire-use records by spatial form, created the treemap in R, and refined the tile labels, colors, and tooltips.
+**My Role:** I grouped the canonical fire-use records by spatial form, created the treemap in R, and refined the tile labels, colours, and tooltips.
 
-**Skills demonstrated:** Treemap design, hierarchical data organization, and interactive visualization in R.
+**Skills Demonstrated:** Treemap design, hierarchical data organization, and interactive visualization in R.

@@ -4,11 +4,11 @@ page-layout: full
 toc: false
 ---
 
-## Project overview
+## Project Overview
 
 This project transforms information from ethnographic literature on Indigenous fire practices in northern Alberta into a structured, traceable dataset designed to inform ecological modeling while preserving links to source evidence and context.
 
-## My role
+## My Role
 
 Dr. Matthew Walls selected the source material for the project and helped lay out the initial workbook structure. I then processed those sources through the dataset-production workflow and developed, expanded, and revised the dataset across all of its versions.
 
@@ -23,16 +23,17 @@ My work included:
 - Developing and applying stable identifiers and controlled vocabularies
 - Connecting canonical fire uses with comparative classes, ontology terms, evidence lineages, and model-facing fields
 - Conducting data cleaning, link validation, consistency checking, and quality assurance
-- Developing the documentation and preparing the current Version 2.0 release
 - Creating static and interactive visualizations in R
 
 Throughout the creation and revision of the dataset, I used LLM assistance for structured rereading, candidate claim extraction, clustering, reconciliation, terminology normalization, and drafting. I reviewed, corrected, and validated the resulting records and determined how the extracted evidence was organized and linked within the dataset. The LLM was used as a research tool and was not treated as a source of evidence.
 
-## Dataset structure
+## Dataset Structure
 
 The dataset is organized as an Excel workbook with linked tables. Stable identifiers connect canonical fire uses to their supporting evidence, comparative categories, and model-facing descriptors, allowing readers to trace the connections between source material and the resulting records.
 
-## Dataset Structure and Research Workflow
+Version 2.0 contains 1,442 atomic claims, 311 claim clusters, 171 provisional fire-use entries, and 51 canonical fire uses across its linked tables.
+
+## Research Workflow and Workbook Structure
 
 This figure summarizes the LLM-assisted workflow I used to create and refine the dataset across its versions. It also shows the organization and purpose of the tables in the current Version 2.0 workbook.
 
@@ -44,7 +45,7 @@ This figure summarizes the LLM-assisted workflow I used to create and refine the
 
 ::: {.figure-note}
 
-**Dataset:** Fire-use database Version 2.0, developed by Nicholas Giardina. **Figure:** Nicholas Giardina.
+**Dataset:** Fire-use database Version 2.0, developed by Matthew Walls and Nicholas Giardina. **Figure:** Nicholas Giardina.
 
 :::
 
@@ -56,9 +57,9 @@ This figure summarizes the LLM-assisted workflow I used to create and refine the
 
 :::
 
-**My role:** I created this figure in R to document the workflow I used to develop the dataset and explain the relationships among its tables.
+**My Role:** I created this figure in R to document the workflow I used to develop the dataset and explain the relationships among its tables.
 
-**Skills demonstrated:** Workflow documentation, research data structuring, evidence traceability, and R-based technical visualization.
+**Skills Demonstrated:** Workflow documentation, research data structuring, evidence traceability, and R-based technical visualization.
 
 ---
 
@@ -86,9 +87,9 @@ The Modeling Crosswalk organizes 51 canonical fire uses into qualitative descrip
 
 :::
 
-**My role:** I organized and reviewed the model-facing fields and created this figure in R to explain how canonical fire uses connect to qualitative descriptors and guidance for their use in modeling.
+**My Role:** I organized and reviewed the model-facing fields and created this figure in R to explain how canonical fire uses connect to qualitative descriptors and guidance for their use in modeling.
 
-**Skills demonstrated:** Qualitative data organization, preparation of model-facing variables, data validation, technical documentation, and R-based visualization.
+**Skills Demonstrated:** Qualitative data organization, preparation of model-facing variables, data validation, technical documentation, and R-based visualization.
 
 ---
 
@@ -116,11 +117,11 @@ This worked example shows how CFU-007, Moose-browse and hunting-site burning, is
 
 :::
 
-**My role:** I created this figure in R using the selected record and its linked evidence to illustrate how the Modeling Crosswalk is organized.
+**My Role:** I created this figure in R using the selected record and its linked evidence to illustrate how the Modeling Crosswalk is organized.
 
-**Skills demonstrated:** Evidence traceability, qualitative data presentation, research communication, and R-based visualization.
+**Skills Demonstrated:** Evidence traceability, qualitative data presentation, research communication, and R-based visualization.
 
-## Research and data challenges
+## Research and Data Challenges
 
 The project draws on a limited set of ethnographic sources, many of which report interviews and observations. The same interview, statement, or earlier account may appear in more than one source, so multiple references do not necessarily represent independent evidence.
 
@@ -128,7 +129,9 @@ I retained source links and documented shared evidence lineages where they could
 
 A further challenge was organizing narrative descriptions into consistent categories while preserving differences in context, timing, and spatial form. The dataset retains source references, contextual information, and uncertainty notes alongside its standardized fields. An unreported practice should not automatically be treated as a practice that did not occur.
 
-## Skills demonstrated
+The dataset is intended as a research and interpretive resource and should not be treated as operational burning guidance, community authorization, or a complete representation of Indigenous knowledge.
+
+## Skills Demonstrated
 
 - Ethnographic evidence extraction and review
 - Research data structuring

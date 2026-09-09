@@ -18,6 +18,6 @@ Click a comparative class, canonical fire use, or provisional entry to zoom into
   scrolling="no">
 </iframe>
 
-**My role:** I used the dataset's linked records to build this visualization in R and refined the labels and tooltips to make its evidence relationships easier to explore.
+**My Role:** I used the dataset's linked records to build this visualization in R and refined the labels and tooltips to make its evidence relationships easier to explore.
 
-**Skills demonstrated:** Hierarchical data preparation, evidence traceability, label and tooltip design, and interactive visualization in R.
+**Skills Demonstrated:** Hierarchical data preparation, evidence traceability, label and tooltip design, and interactive visualization in R.

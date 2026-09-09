@@ -6,7 +6,7 @@ toc: false
 
 This interactive heatmap compares the recorded timing categories and spatial forms of canonical fire uses. Each cell shows the number of canonical fire uses with that combination of timing and spatial form.
 
-The columns distinguish season-specific, multi-season, and other or unspecified timing. Hover over a cell to inspect the linked uses and their model-facing information.
+The timing axis is grouped into season-specific, multi-season, and other or unspecified categories. Hover over a cell to inspect the linked uses and their model-facing information.
 
 [Open the figure in a separate browser tab](interactive/timing-spatial-heatmap.html){target="_blank"}
 
@@ -18,6 +18,6 @@ The columns distinguish season-specific, multi-season, and other or unspecified 
   scrolling="no">
 </iframe>
 
-**My role:** I organized the timing and spatial-form fields for comparison, created the heatmap in R, and refined its timing groups, labels, color scale, and tooltips.
+**My Role:** I organized the timing and spatial-form fields for comparison, created the heatmap in R, and refined its timing groups, labels, colour scale, and tooltips.
 
-**Skills demonstrated:** Categorical data preparation, heatmap design, interactive tooltips, and R-based visualization.
+**Skills Demonstrated:** Categorical data preparation, heatmap design, interactive tooltips, and R-based visualization.

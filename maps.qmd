@@ -26,9 +26,9 @@ This map shows the communities and places associated with the northern Alberta f
 
 :::
 
-**My role:** I created this map in QGIS using location data compiled by Dr. Matthew Walls and existing boundary, waterway, and elevation datasets. I organized and styled the layers, adjusted labels and the legend, and prepared the print layout for PNG and PDF export.
+**My Role:** I created this map in QGIS using location data compiled by Dr. Matthew Walls and existing boundary, waterway, and elevation datasets. I organized and styled the layers, adjusted labels and the legend, and prepared the print layout for PNG and PDF export.
 
-**Skills demonstrated:** QGIS, coordinate reference systems, vector and raster data integration, symbology, labeling, and print layout design.
+**Skills Demonstrated:** QGIS, coordinate reference systems, vector and raster data integration, symbology, labelling, and print layout design.
 
 ---
 
@@ -54,9 +54,9 @@ This map provides a closer view of Meander River, one of the dataset's primary e
 
 :::
 
-**My role:** I designed this map in QGIS by combining satellite imagery with reserve boundary, river, and location layers. I adjusted the map extent, layer styling, labels, and legend for the local view and prepared the print layout for PNG and PDF export.
+**My Role:** I designed this map in QGIS by combining satellite imagery with reserve boundary, river, and location layers. I adjusted the map extent, layer styling, labels, and legend for the local view and prepared the print layout for PNG and PDF export.
 
-**Skills demonstrated:** QGIS, integration of imagery and vector data, map symbology, label placement, and print layout design.
+**Skills Demonstrated:** QGIS, integration of imagery and vector data, map symbology, label placement, and print layout design.
 
 ---
 
@@ -108,6 +108,6 @@ This map shows five house features at Pitoraavik. The digitized polygons are ove
 
 :::
 
-**My role:** I created the archaeological feature polygons in QGIS by tracing houses and tent rings from supplied aerial imagery. I organized and labeled the features, selected symbology that remained visible against the imagery, and designed and exported the Qassisalik and Pitoraavik map layouts.
+**My Role:** I created the archaeological feature polygons in QGIS by tracing houses and tent rings from supplied aerial imagery. I organized and labelled the features, selected symbology that remained visible against the imagery, and designed and exported the Qassisalik and Pitoraavik map layouts.
 
-**Skills demonstrated:** QGIS, interpretation of aerial imagery, polygon digitization, vector attribute management, feature labeling, symbology, cartographic design, and print-layout preparation.
+**Skills Demonstrated:** QGIS, interpretation of aerial imagery, polygon digitization, vector attribute management, feature labelling, symbology, cartographic design, and print-layout preparation.
