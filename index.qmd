@@ -22,9 +22,9 @@ Interactive figures developed in R to explore and communicate patterns within th
 
 [View the interactive visualizations](visualizations.qmd)
 
-### Archaeological Mapping
+### GIS Mapping
 
-Regional and close-up maps created in QGIS to communicate the geographic context of ethnographic and archaeological research.
+Regional, close-up, and site-scale maps created in QGIS to communicate geographic context and document archaeological features from aerial imagery.
 
 [View the mapping work](maps.qmd)
 
