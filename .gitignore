@@ -1,15 +1,25 @@
+# RStudio session files
 .Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-/.quarto/
-/_site/
 
+# Quarto working files
+/.quarto/
+**/*.quarto_ipynb
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Research data and working GIS files
 *.xlsx
 *.xls
 *.csv
 *.gpkg
+*.qgs
 *.qgz
-*.7z
+*.tif
+*.tiff
 *.ai
-**/*.quarto_ipynb
+*.7z
