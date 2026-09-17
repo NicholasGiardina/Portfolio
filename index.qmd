@@ -24,12 +24,12 @@ Interactive figures developed in R to explore and communicate patterns within th
 
 ### GIS Mapping
 
-Regional, close-up, and site-scale maps created in QGIS to communicate geographic context and document archaeological features from aerial imagery.
+Regional and close-up maps created in QGIS to communicate geographic context, alongside site-scale archaeological feature maps digitized from UAV orthomosaic imagery.
 
 [View the mapping work](maps.qmd)
 
 ### Archaeological Illustration
 
-Vector illustrations of archaeological structures and features at Kitsissut, Greenland, created in Adobe Illustrator using aerial imagery as reference material.
+Vector illustrations of archaeological structures and features at Kitsissut, Greenland, created in Adobe Illustrator using UAV orthomosaic imagery as reference material.
 
 [View the illustrations](illustrations.qmd)

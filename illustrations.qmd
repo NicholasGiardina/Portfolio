@@ -6,9 +6,9 @@ toc: false
 
 ## Kitsissut: Lethbridge Hut 1
 
-This archaeological illustration documents the visible form and features of Lethbridge Hut 1 at Kitsissut based on aerial imagery.
+This archaeological illustration documents the visible form and features of Lethbridge Hut 1 at Kitsissut based on UAV orthomosaic imagery.
 
-[![](images/illustrations/lethbridge-hut-1-final.png){.static-preview .illustration-preview fig-alt="Completed archaeological illustration of Lethbridge Hut 1 at Kitsissut, based on aerial imagery"}](images/illustrations/lethbridge-hut-1-final.png){target="_blank"}
+[![](images/illustrations/lethbridge-hut-1-final.png){.static-preview .illustration-preview fig-alt="Completed archaeological illustration of Lethbridge Hut 1 at Kitsissut, based on UAV orthomosaic imagery"}](images/illustrations/lethbridge-hut-1-final.png){target="_blank"}
 
 ::: {.portfolio-actions}
 
@@ -16,11 +16,11 @@ This archaeological illustration documents the visible form and features of Leth
 
 :::
 
-**My Role:** I used aerial imagery as a reference to draw the archaeological feature in Adobe Illustrator and produce a clear, finished vector illustration.
+**My Role:** I used UAV orthomosaic imagery as a reference to draw the archaeological feature in Adobe Illustrator and produce a clear, finished vector illustration.
 
-**Skills Demonstrated:** Adobe Illustrator, interpretation of aerial imagery, precise vector drawing, feature differentiation, visual hierarchy, labelling, and preparation of publication-quality archaeological graphics.
+**Skills Demonstrated:** Adobe Illustrator, interpretation of UAV orthomosaic imagery, precise vector drawing, feature differentiation, visual hierarchy, labelling, and preparation of publication-quality archaeological graphics.
 
-**Source and Context:** Produced from aerial imagery supplied by Dr. Matthew Walls as reference material for documenting archaeological features at Kitsissut.
+**Source and Context:** Produced from UAV orthomosaic imagery supplied by Dr. Matthew Walls as reference material for documenting archaeological features at Kitsissut.
 
 <details class="process-version">
 <summary>View an earlier working version</summary>
@@ -37,9 +37,9 @@ Open earlier working version (PDF)
 
 ## Kitsissut: Tent Ring 24
 
-This archaeological illustration documents the layout and visible features of Tent Ring 24 at Kitsissut based on aerial imagery.
+This archaeological illustration documents the layout and visible features of Tent Ring 24 at Kitsissut based on UAV orthomosaic imagery.
 
-[![](images/illustrations/tent-ring-24-final.png){.static-preview .illustration-preview fig-alt="Completed archaeological illustration of Tent Ring 24 at Kitsissut, based on aerial imagery"}](images/illustrations/tent-ring-24-final.png){target="_blank"}
+[![](images/illustrations/tent-ring-24-final.png){.static-preview .illustration-preview fig-alt="Completed archaeological illustration of Tent Ring 24 at Kitsissut, based on UAV orthomosaic imagery"}](images/illustrations/tent-ring-24-final.png){target="_blank"}
 
 ::: {.portfolio-actions}
 
@@ -47,11 +47,11 @@ This archaeological illustration documents the layout and visible features of Te
 
 :::
 
-**My Role:** I used aerial imagery as a reference to draw the archaeological feature in Adobe Illustrator and produce a clear, finished vector illustration.
+**My Role:** I used UAV orthomosaic imagery as a reference to draw the archaeological feature in Adobe Illustrator and produce a clear, finished vector illustration.
 
-**Skills Demonstrated:** Adobe Illustrator, interpretation of aerial imagery, precise vector drawing, feature differentiation, visual hierarchy, and preparation of publication-quality archaeological graphics.
+**Skills Demonstrated:** Adobe Illustrator, interpretation of UAV orthomosaic imagery, precise vector drawing, feature differentiation, visual hierarchy, and preparation of publication-quality archaeological graphics.
 
-**Source and Context:** Produced from aerial imagery supplied by Dr. Matthew Walls as reference material for documenting archaeological features at Kitsissut.
+**Source and Context:** Produced from UAV orthomosaic imagery supplied by Dr. Matthew Walls as reference material for documenting archaeological features at Kitsissut.
 
 <details class="process-version">
 <summary>View an earlier working version</summary>
